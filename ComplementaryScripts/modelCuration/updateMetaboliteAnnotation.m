@@ -18,14 +18,14 @@ for i = 1:length(metaboliteData{1})
             %find corresponding compartment:
             metName = model.metNames{j};
             comp    = metName(strfind(metName,' ['):strfind(metName,']'));
-            metName = [metaboliteData{6}{i} comp];
+            metName = [metaboliteData{7}{i} comp];
             
             %Update other fields:
             model.metNames{j}   = metName;              %new name
-            model.metChEBIID{j} = metaboliteData{7}{i};	%new CHEBI
+            model.metChEBIID{j} = metaboliteData{9}{i};	%new CHEBI
             model.metKEGGID{j}  = metaboliteData{8}{i};	%new KEGG
-            model.metCharges(j) = metaboliteData{9}(i);	%new charge
-            model.metFormulas{j} = metaboliteData{9}(i); %update formula
+            model.metCharges(j) = metaboliteData{11}(i);	%new charge
+            model.metFormulas{j} = metaboliteData{12}{i}; %update formula
         end
     end
 end
