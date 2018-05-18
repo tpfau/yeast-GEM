@@ -9,7 +9,7 @@ function model = updateMetaboliteAnnotation(model)
 
 %Load data:
 fid = fopen('../../ComplementaryData/metabolite_manual_curation_full_list.tsv','r');
-metaboliteData = textscan(fid,'%s %s %s %s %f32 %s %s %s %f32 %s','Delimiter','\t','HeaderLines',1);
+metaboliteData = textscan(fid,'%s %s %s %s %f32 %s %s %s %s %s %f32 %s','Delimiter','\t','HeaderLines',1);
 fclose(fid);
 
 for i = 1:length(metaboliteData{1})
