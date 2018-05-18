@@ -2,13 +2,13 @@
 % model = updateMetaboliteAnnotation(model)
 % update the metabolite annotation information in the model
 %
-% Hongzhong Lu & Benjamín J. Sánchez
+% Hongzhong Lu & Benjamï¿½n J. Sï¿½nchez
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function model = updateMetaboliteAnnotation(model)
 
 %Load data:
-fid = fopen('../../ComplementaryData/metabolite_manual_curation.tsv','r');
+fid = fopen('../../ComplementaryData/metabolite_manual_curation_full_list.tsv','r');
 metaboliteData = textscan(fid,'%s %s %s %s %f32 %s %s %s %f32 %s','Delimiter','\t','HeaderLines',1);
 fclose(fid);
 
@@ -25,6 +25,7 @@ for i = 1:length(metaboliteData{1})
             model.metChEBIID{j} = metaboliteData{7}{i};	%new CHEBI
             model.metKEGGID{j}  = metaboliteData{8}{i};	%new KEGG
             model.metCharges(j) = metaboliteData{9}(i);	%new charge
+            model.metFormulas{j} = metaboliteData{9}(i); %update formula
         end
     end
 end
