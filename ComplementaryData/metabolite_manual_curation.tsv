@@ -1,15 +1,446 @@
 metID	name_original	CHEBI_original	KEGG_original	charge_original	name_new	CHEBI_new	KEGG_new	charge_new	remark
-s_0260	3-phosphoglycerate	CHEBI:58272	C00197	-3	3-phosphonato-D-glycerate(3-)	CHEBI:58272	C00197	-3	update fullname. the old keggid is for the molecular form
+s_0008	(2R,3R)-2,3-dihydroxy-3-methylpentanoate	CHEBI:49258	C06007	-1	(2R,3R)-2,3-dihydroxy-3-methylpentanoate	CHEBI:49258	C06007	-1	
+s_0009	(2R,3S)-3-isopropylmalate	CHEBI:35121	C04411	-2	(2R,3S)-3-isopropylmalate	CHEBI:35121	C04411	-2	
+s_0010	(2S)-2-isopropyl-3-oxosuccinate	CHEBI:17214	C04236	-2	(2S)-2-isopropyl-3-oxosuccinate	CHEBI:17214	C04236	-2	
+s_0016	(R)-2,3-dihydroxy-3-methylbutanoate	CHEBI:49072	C04272	-1	(R)-2,3-dihydroxy-3-methylbutanoate	CHEBI:49072	C04272	-1	
+s_0020	(R)-acetoin	CHEBI:15686	C00810	0	(R)-acetoin	CHEBI:15686	C00810	0	
+s_0021	(R)-carnitine	CHEBI:16347	C00318	0	(R)-carnitine	CHEBI:16347	C00318	0	
+s_0025	(R)-lactate	CHEBI:16004	C00256	-1	(R)-lactate	CHEBI:16004	C00256	-1	
+s_0028	(R)-mevalonate	CHEBI:36464	C00418	-1	(R)-mevalonate	CHEBI:36464	C00418	-1	
+s_0030	(R)-pantoate	CHEBI:15980	C00522	-1	(R)-pantoate	CHEBI:15980	C00522	-1	
+s_0031	(R)-pantothenate	CHEBI:29032	C00864	-1	(R)-pantothenate	CHEBI:29032	C00864	-1	
+s_0033	(R)-S-lactoylglutathione	CHEBI:57474	C03451	-1	(R)-S-lactoylglutathione	CHEBI:57474	C03451	-1	
+s_0035	(R,R)-2,3-butanediol	CHEBI:16982	C03044	0	(R,R)-2,3-butanediol	CHEBI:16982	C03044	0	
+s_0037	(S)-2,3-epoxysqualene	CHEBI:15441	C01054	0	(S)-2,3-epoxysqualene	CHEBI:15441	C01054	0	
+s_0054	(S)-3-hydroxytetradecanoyl-CoA	CHEBI:27466	C05260	0	(S)-3-hydroxytetradecanoyl-CoA	CHEBI:27466	C05260	0	
+s_0056	(S)-3-methyl-2-oxopentanoate	CHEBI:35146	C00671	-1	(S)-3-methyl-2-oxopentanoate	CHEBI:35146	C00671	-1	
+s_0061	(S)-dihydroorotate	CHEBI:30864	C00337	-1	(S)-dihydroorotate	CHEBI:30864	C00337	-1	
+s_0062	(S)-lactaldehyde	CHEBI:18041	C00424	0	(S)-lactaldehyde	CHEBI:18041	C00424	0	
+s_0063	(S)-lactate	CHEBI:16651	C00186	-1	(S)-lactate	CHEBI:16651	C00186	-1	
+s_0066	(S)-malate	CHEBI:15589	C00149	-2	(S)-malate	CHEBI:15589	C00149	-2	
+s_0075	1,3-bisphospho-D-glycerate	CHEBI:57604	C00236	-4	1,3-bisphospho-D-glycerate	CHEBI:57604	C00236	-4	
+s_0076	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	CHEBI:58613	C01302	-3	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	CHEBI:58613	C01302	-3	
+s_0079	1-(sn-glycero-3-phospho)-1D-myo-inositol	CHEBI:58444	C01225	-1	1-(sn-glycero-3-phospho)-1D-myo-inositol	CHEBI:58444	C01225	-1	
+s_0084	1-acylglycerophosphocholine	CHEBI:11230	C04230	1	1-acylglycerophosphocholine	CHEBI:11230	C04230	1	
+s_0086	1-C-(indol-3-yl)glycerol 3-phosphate	CHEBI:60820	C03506	-2	1-C-(indol-3-yl)glycerol 3-phosphate	CHEBI:60820	C03506	-2	
+s_0087	1-methylnicotinamide	CHEBI:16797	C02918	1	1-methylnicotinamide	CHEBI:16797	C02918	1	
+s_0089	1-phosphatidyl-1D-myo-inositol	CHEBI:57880	C01194	-1	1-phosphatidyl-1D-myo-inositol	CHEBI:57880	C01194	-1	
+s_0118	1-pyrroline-5-carboxylate	CHEBI:15893	C04322	-1	1-pyrroline-5-carboxylate	CHEBI:15893	C04322	-1	
+s_0120	10-formyl-THF	CHEBI:57454	C00234	-2	10-formyl-THF	CHEBI:57454	C00234	-2	
+s_0122	14-demethyllanosterol	CHEBI:18364	C05108	0	14-demethyllanosterol	CHEBI:18364	C05108	0	
+s_0123	1D-myo-inositol 1,3,4,5-tetrakisphosphate	CHEBI:57895	C01272	-8	1D-myo-inositol 1,3,4,5-tetrakisphosphate	CHEBI:57895	C01272	-8	
+s_0124	1D-myo-inositol 1,4,5,6-tetrakisphosphate	CHEBI:57627	C11555	-8	1D-myo-inositol 1,4,5,6-tetrakisphosphate	CHEBI:57627	C11555	-8	
+s_0125	1D-myo-inositol 1,4,5-trisphosphate	CHEBI:203600	C01245	-6	1D-myo-inositol 1,4,5-trisphosphate	CHEBI:203600	C01245	-6	
+s_0126	1D-myo-inositol 1-phosphate	CHEBI:58433	C01177	-2	1D-myo-inositol 1-phosphate	CHEBI:58433	C01177	-2	
+s_0129	1D-myo-inositol 3-phosphate	CHEBI:58401	C04006	-2	1D-myo-inositol 3-phosphate	CHEBI:58401	C04006	-2	
+s_0131	2',3'-cyclic AMP	CHEBI:60879	C02353	-1	2',3'-cyclic AMP	CHEBI:60879	C02353	-1	
+s_0132	2'-deoxyadenosine	CHEBI:17256	C00559	0	2'-deoxyadenosine	CHEBI:17256	C00559	0	
+s_0134	2'-deoxyguanosine	CHEBI:17172	C00330	0	2'-deoxyguanosine	CHEBI:17172	C00330	0	
+s_0138	2'-deoxyuridine	CHEBI:16450	C00526	0	2'-deoxyuridine	CHEBI:16450	C00526	0	
+s_0144	2-[3-carboxy-3-(methylammonio)propyl]-L-histidine	CHEBI:57784	C04692	0	2-[3-carboxy-3-(methylammonio)propyl]-L-histidine	CHEBI:57784	C04692	0	
+s_0145	2-acetamido-5-oxopentanoate	CHEBI:29123	C01250	-1	2-acetamido-5-oxopentanoate	CHEBI:29123	C01250	-1	
+s_0149	2-dehydropantoate	CHEBI:11561	C00966	-1	2-dehydropantoate	CHEBI:11561	C00966	-1	
+s_0152	2-deoxy-D-ribose	CHEBI:28816	C01801	0	2-deoxy-D-ribose	CHEBI:28816	C01801	0	
+s_0153	2-deoxy-D-ribose 5-phosphate	CHEBI:57651	C00673	-2	2-deoxy-D-ribose 5-phosphate	CHEBI:57651	C00673	-2	
+s_0155	2-hexaprenyl-6-methoxy-1,4-benzoquinone	CHEBI:27752	C05803	0	2-hexaprenyl-6-methoxy-1,4-benzoquinone	CHEBI:27752	C05803	0	
+s_0157	2-hexaprenyl-6-methoxyphenol	CHEBI:1109	C05802	0	2-hexaprenyl-6-methoxyphenol	CHEBI:1109	C05802	0	
+s_0158	2-hydroxy-3-oxobutyl phosphate	CHEBI:50606	C15556	0	2-hydroxy-3-oxobutyl phosphate	CHEBI:50606	C15556	0	
+s_0166	2-methylbutanal	CHEBI:16182	C02223	0	2-methylbutanal	CHEBI:16182	C02223	0	
+s_0174	2-methylcitrate	CHEBI:15598	C02225	-3	2-methylcitrate	CHEBI:15598	C02225	-3	
+s_0176	2-oxoadipic acid	CHEBI:57499	C00322	-2	2-oxoadipic acid	CHEBI:57499	C00322	-2	
+s_0178	2-oxobutanoate	CHEBI:16763	C00109	-1	2-oxobutanoate	CHEBI:16763	C00109	-1	
+s_0180	2-oxoglutarate	CHEBI:16810	C00026	-2	2-oxoglutarate	CHEBI:16810	C00026	-2	
+s_0185	2-phenylethanol	CHEBI:49000	C05853	0	2-phenylethanol	CHEBI:49000	C05853	0	
+s_0189	geranylgeranyl diphosphate	CHEBI:58756	C00353	-3	geranylgeranyl diphosphate	CHEBI:58756	C00353	-3	
+s_0190	farnesyl diphosphate	CHEBI:175763	C00448	-3	farnesyl diphosphate	CHEBI:175763	C00448	-3	
+s_0192	3',5'-cyclic AMP	CHEBI:58165	C00575	-1	3',5'-cyclic AMP	CHEBI:58165	C00575	-1	
+s_0193	3',5'-cyclic CMP	CHEBI:58003	C00941	-1	3',5'-cyclic CMP	CHEBI:58003	C00941	-1	
+s_0194	3',5'-cyclic dAMP	CHEBI:28074	C00968	0	3',5'-cyclic dAMP	CHEBI:28074	C00968	0	
+s_0195	3',5'-cyclic GMP	CHEBI:57746	C00942	-1	3',5'-cyclic GMP	CHEBI:57746	C00942	-1	
+s_0196	3',5'-cyclic IMP	CHEBI:27541	C00943	0	3',5'-cyclic IMP	CHEBI:27541	C00943	0	
+s_0197	3'-dephospho-CoA	CHEBI:57328	C00882	-2	3'-dephospho-CoA	CHEBI:57328	C00882	-2	
+s_0201	3'-phospho-5'-adenylyl sulfate	CHEBI:58339	C00053	-4	3'-phospho-5'-adenylyl sulfate	CHEBI:58339	C00053	-4	
+s_0204	3-(4-hydroxyphenyl)pyruvate	CHEBI:36242	C01179	-1	3-(4-hydroxyphenyl)pyruvate	CHEBI:36242	C01179	-1	
+s_0208	3-aminopropanal	CHEBI:58374	C02229	1	3-aminopropanal	CHEBI:58374	C02229	1	
+s_0210	3-dehydroquinate	CHEBI:32364	C00944	-1	3-dehydroquinate	CHEBI:32364	C00944	-1	
+s_0211	3-dehydroshikimate	CHEBI:16630	C02637	-1	3-dehydroshikimate	CHEBI:16630	C02637	-1	
+s_0215	3-hexaprenyl-4-hydroxybenzoic acid	CHEBI:31116	C13425	0	3-hexaprenyl-4-hydroxybenzoic acid	CHEBI:31116	C13425	0	
+s_0218	3-hydroxy-3-methylglutaryl-CoA	CHEBI:11814	C00356	0	3-hydroxy-3-methylglutaryl-CoA	CHEBI:11814	C00356	0	
+s_0222	3-hydroxy-L-kynurenine	CHEBI:17380	C03227	0	3-hydroxy-L-kynurenine	CHEBI:17380	C03227	0	
+s_0224	3-hydroxyanthranilate	CHEBI:36559	C00632	-1	3-hydroxyanthranilate	CHEBI:36559	C00632	-1	
+s_0229	3-hydroxyoctadecanoyl-CoA	CHEBI:50583	C16217	0	3-hydroxyoctadecanoyl-CoA	CHEBI:50583	C16217	0	
+s_0232	3-methyl-2-oxobutanoate	CHEBI:11851	C00141	-1	3-methyl-2-oxobutanoate	CHEBI:11851	C00141	-1	
+s_0234	3-methylbutanal	CHEBI:16638	C07329	0	3-methylbutanal	CHEBI:16638	C07329	0	
+s_0239	3-oxodecanoyl-CoA	CHEBI:28528	C05265	0	3-oxodecanoyl-CoA	CHEBI:28528	C05265	0	
+s_0250	3-oxooctadecanoyl-CoA	CHEBI:50571	C16216	0	3-oxooctadecanoyl-CoA	CHEBI:50571	C16216	0	
+s_0253	3-oxopalmitoyl-CoA	CHEBI:57349	C05259	-4	3-oxopalmitoyl-CoA	CHEBI:57349	C05259	-4	
+s_0257	3-oxotetradecanoyl-CoA	CHEBI:28726	C05261	0	3-oxotetradecanoyl-CoA	CHEBI:28726	C05261	0	
+s_0260	3-phosphoglycerate	CHEBI:58272	C00197	-3	3-phosphonato-D-glycerate(3_)	CHEBI:58272	C00197	-3	update fullname. the old keggid is for the molecular form
+s_0262	4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	CHEBI:17813	C11455	0	4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol	CHEBI:17813	C11455	0	
+s_0264	4-(phosphonooxy)-L-threonine	CHEBI:58452	C06055	-2	4-(phosphonooxy)-L-threonine	CHEBI:58452	C06055	-2	
+s_0269	4-amino-4-deoxychorismate	CHEBI:35181	C11355	-2	4-amino-4-deoxychorismate	CHEBI:35181	C11355	-2	
+s_0270	4-amino-5-hydroxymethyl-2-methylpyrimidine	CHEBI:16892	C01279	0	4-amino-5-hydroxymethyl-2-methylpyrimidine	CHEBI:16892	C01279	0	
+s_0271	4-aminobenzoate	CHEBI:17836	C00568	-1	4-aminobenzoate	CHEBI:17836	C00568	-1	
+s_0274	4-aminobutanal	CHEBI:58264	C00555	1	4-aminobutanal	CHEBI:58264	C00555	1	
+s_0280	4-guanidinobutanamide	CHEBI:58365	C03078	1	4-guanidinobutanamide	CHEBI:58365	C03078	1	
+s_0282	4-hydroxy-2-oxoglutarate	CHEBI:17742	C01127	-2	4-hydroxy-2-oxoglutarate	CHEBI:17742	C01127	-2	
+s_0285	4-hydroxy-L-threonine	CHEBI:28330	C06056	0	4-hydroxy-L-threonine	CHEBI:28330	C06056	0	
+s_0286	4-hydroxybenzoate	CHEBI:17879	C00156	-1	4-hydroxybenzoate	CHEBI:17879	C00156	-1	
+s_0290	4-hydroxybenzoyl-CoA	CHEBI:57356	C02949	-4	4-hydroxybenzoyl-CoA	CHEBI:57356	C02949	-4	
+s_0291	4-methyl-2-oxopentanoate	CHEBI:17865	C00233	-1	4-methyl-2-oxopentanoate	CHEBI:17865	C00233	-1	
+s_0293	4-methyl-5-(2-phosphonooxyethyl)thiazole	CHEBI:58296	C04327	-2	4-methyl-5-(2-phosphonooxyethyl)thiazole	CHEBI:58296	C04327	-2	
+s_0294	4-methylthio-2-oxobutanoate	CHEBI:16723	C01180	-1	4-methylthio-2-oxobutanoate	CHEBI:16723	C01180	-1	
+s_0295	4-phospho-L-aspartate	CHEBI:30407	C03082	-3	4-phospho-L-aspartate	CHEBI:30407	C03082	-3	
+s_0296	4alpha-methylzymosterol	CHEBI:1949	C05103	0	4alpha-methylzymosterol	CHEBI:1949	C05103	0	
+s_0298	5'-adenylyl sulfate	CHEBI:58243	C00224	-2	5'-adenylyl sulfate	CHEBI:58243	C00224	-2	
+s_0299	5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole	CHEBI:58443	C04823	-4	5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole	CHEBI:58443	C04823	-4	
+s_0300	5'-phosphoribosyl-5-aminoimidazole	CHEBI:58592	C03373	-1	5'-phosphoribosyl-5-aminoimidazole	CHEBI:58592	C03373	-1	
+s_0306	5,10-methylenetetrahydrofolate	CHEBI:12071	C00143	-2	5,10-methylenetetrahydrofolate	CHEBI:12071	C00143	-2	
+s_0310	5-(2-hydroxyethyl)-4-methylthiazole	CHEBI:17957	C04294	0	5-(2-hydroxyethyl)-4-methylthiazole	CHEBI:17957	C04294	0	
+s_0314	5-amino-6-(D-ribitylamino)uracil	CHEBI:15934	C04732	0	5-amino-6-(D-ribitylamino)uracil	CHEBI:15934	C04732	0	
+s_0315	5-aminolevulinate	CHEBI:17549	C00430	0	5-aminolevulinate	CHEBI:17549	C00430	0	
+s_0322	5-methyltetrahydrofolate	CHEBI:18608	C00440	-2	5-methyltetrahydrofolate	CHEBI:18608	C00440	-2	
+s_0327	5-phosphoribosylamine	CHEBI:58681	C03090	-1	5-phosphoribosylamine	CHEBI:58681	C03090	-1	
+s_0329	6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	CHEBI:17049	C04248	0	6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	CHEBI:17049	C04248	0	
+s_0331	6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	CHEBI:57265	C01288	-1	6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	CHEBI:57265	C01288	-1	
+s_0340	6-phospho-D-gluconate	CHEBI:58759	C00345	-3	6-phospho-D-gluconate	CHEBI:58759	C00345	-3	
+s_0341	7,8-diaminononanoate	CHEBI:17830	C01037	-1	7,8-diaminononanoate	CHEBI:17830	C01037	-1	
+s_0343	7,8-dihydroneopterin	CHEBI:17001	C04874	0	7,8-dihydroneopterin	CHEBI:17001	C04874	0	
+s_0345	7,8-dihydroneopterin 3'-phosphate	CHEBI:58762	C05925	-2	7,8-dihydroneopterin 3'-phosphate	CHEBI:58762	C05925	-2	
+s_0346	7,8-dihydroneopterin 3'-triphosphate	CHEBI:58462	C04895	-4	7,8-dihydroneopterin 3'-triphosphate	CHEBI:58462	C04895	-4	
+s_0347	7,8-dihydropteroate	CHEBI:17839	C00921	-1	7,8-dihydropteroate	CHEBI:17839	C00921	-1	
+s_0352	8-amino-7-oxononanoate	CHEBI:15830	C01092	0	8-amino-7-oxononanoate	CHEBI:15830	C01092	0	
+s_0359	acetaldehyde	CHEBI:15343	C00084	0	acetaldehyde	CHEBI:15343	C00084	0	
+s_0362	acetate	CHEBI:30089	C00033	-1	acetate	CHEBI:30089	C00033	-1	
+s_0367	acetoacetyl-CoA	CHEBI:57286	C00332	-4	acetoacetyl-CoA	CHEBI:57286	C00332	-4	
+s_0373	acetyl-CoA	CHEBI:57288	C00024	-4	acetyl-CoA	CHEBI:57288	C00024	-4	
+s_0383	adenine	CHEBI:16708	C00147	0	adenine	CHEBI:16708	C00147	0	
+s_0386	adenosine	CHEBI:16335	C00212	0	adenosine	CHEBI:16335	C00212	0	
+s_0389	adenosine 2'-phosphate	CHEBI:28223	C00946	0	adenosine 2'-phosphate	CHEBI:28223	C00946	0	
+s_0394	ADP	CHEBI:456216	C00008	-3	ADP	CHEBI:456216	C00008	-3	
+s_0402	ADP-ribose	CHEBI:57967	C00301	-2	ADP-ribose	CHEBI:57967	C00301	-2	
+s_0403	AICAR	CHEBI:58475	C04677	-2	AICAR	CHEBI:58475	C04677	-2	
+s_0405	allantoate	CHEBI:17536	C00499	-1	allantoate	CHEBI:17536	C00499	-1	
+s_0407	allantoin	CHEBI:15676	C01551	0	allantoin	CHEBI:15676	C01551	0	
+s_0410	alpha-D-galactose 1-phosphate	CHEBI:58336	C00446	-2	alpha-D-galactose 1-phosphate	CHEBI:58336	C00446	-2	
+s_0411	alpha-D-glucosamine 1-phosphate	CHEBI:58516	C06156	-1	alpha-D-glucosamine 1-phosphate	CHEBI:58516	C06156	-1	
 s_0415	alpha-D-ribose 1-phosphate	CHEBI:57720	C00442	-2	alpha-D-ribose 1-phosphate(2-)	CHEBI:57720	C00620	-2	update fullname and kegg id. the new keggid is for the molecular form
+s_0417	aminoacetaldehyde	CHEBI:58213	C06735	1	aminoacetaldehyde	CHEBI:58213	C06735	1	
+s_0418	aminoacetone	CHEBI:58320	C01888	1	aminoacetone	CHEBI:58320	C01888	1	
+s_0423	AMP	CHEBI:456215	C00020	-2	AMP	CHEBI:456215	C00020	-2	
+s_0427	anthranilate	CHEBI:16567	C00108	-1	anthranilate	CHEBI:16567	C00108	-1	
+s_0430	Asn-tRNA(Asn)	CHEBI:29265	C03402	0	Asn-tRNA(Asn)	CHEBI:29265	C03402	0	
+s_0434	ATP	CHEBI:30616	C00002	-4	ATP	CHEBI:30616	C00002	-4	
+s_0441	beta-alanine	CHEBI:16958	C00099	0	beta-alanine	CHEBI:16958	C00099	0	
+s_0442	beta-D-fructose 2,6-bisphosphate	CHEBI:58579	C00665	-4	beta-D-fructose 2,6-bisphosphate	CHEBI:58579	C00665	-4	
+s_0443	beta-D-mannosyldiacetylchitobiosyldiphosphodolichol	CHEBI:18396	C05860	0	beta-D-mannosyldiacetylchitobiosyldiphosphodolichol	CHEBI:18396	C05860	0	
+s_0445	bicarbonate	CHEBI:17544	C00288	-1	bicarbonate	CHEBI:17544	C00288	-1	
+s_0451	biotin	CHEBI:57586	C00120	-1	biotin	CHEBI:57586	C00120	-1	
+s_0453	biotinyl-5'-AMP	CHEBI:62414	C05921	-1	biotinyl-5'-AMP	CHEBI:62414	C05921	-1	
+s_0455	carbamoyl phosphate	CHEBI:58228	C00169	-2	carbamoyl phosphate	CHEBI:58228	C00169	-2	
+s_0456	carbon dioxide	CHEBI:16526	C00011	0	carbon dioxide	CHEBI:16526	C00011	0	
+s_0467	CDP	CHEBI:58069	C00112	-3	CDP	CHEBI:58069	C00112	-3	
+s_0469	CDP-choline	CHEBI:16436	C00307	0	CDP-choline	CHEBI:16436	C00307	0	
+s_0474	CDP-ethanolamine	CHEBI:57876	C00570	-1	CDP-ethanolamine	CHEBI:57876	C00570	-1	
+s_0509	chitin	CHEBI:17029	C00461	0	chitin	CHEBI:17029	C00461	0	
+s_0510	chitosan	CHEBI:16261	C00734	0	chitosan	CHEBI:16261	C00734	0	
+s_0511	choline	CHEBI:15354	C00114	1	choline	CHEBI:15354	C00114	1	
+s_0514	choline phosphate	CHEBI:295975	C00588	-1	choline phosphate	CHEBI:295975	C00588	-1	
+s_0515	chorismate	CHEBI:29748	C00251	-2	chorismate	CHEBI:29748	C00251	-2	
+s_0516	cis-aconitate	CHEBI:16383	C00417	-3	cis-aconitate	CHEBI:16383	C00417	-3	
+s_0522	citrate	CHEBI:16947	C00158	-3	citrate	CHEBI:16947	C00158	-3	
+s_0526	CMP	CHEBI:60377	C00055	-2	CMP	CHEBI:60377	C00055	-2	
+s_0529	coenzyme A	CHEBI:57287	C00010	-4	coenzyme A	CHEBI:57287	C00010	-4	
+s_0538	coproporphyrinogen III	CHEBI:57309	C03263	-4	coproporphyrinogen III	CHEBI:57309	C03263	-4	
+s_0539	CTP	CHEBI:37563	C00063	-4	CTP	CHEBI:37563	C00063	-4	
+s_0543	cytidine	CHEBI:17562	C00475	0	cytidine	CHEBI:17562	C00475	0	
+s_0545	cytosine	CHEBI:16040	C00380	0	cytosine	CHEBI:16040	C00380	0	
+s_0547	D-arabinono-1,4-lactone	CHEBI:16292	C00652	0	D-arabinono-1,4-lactone	CHEBI:16292	C00652	0	
+s_0548	D-arabinose	CHEBI:17108	C00216	0	D-arabinose	CHEBI:17108	C00216	0	
+s_0550	D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate	CHEBI:58278	C04666	-2	D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate	CHEBI:58278	C04666	-2	
+s_0551	D-erythrose 4-phosphate	CHEBI:16897	C00279	-2	D-erythrose 4-phosphate	CHEBI:16897	C00279	-2	
+s_0553	D-fructose	CHEBI:15824	C00095	0	D-fructose	CHEBI:15824	C00095	0	
+s_0555	D-fructose 1,6-bisphosphate	CHEBI:16905	C00354	0	D-fructose 1,6-bisphosphate	CHEBI:16905	C00354	0	
+s_0556	D-fructose 1-phosphate	CHEBI:18105	C01094	0	D-fructose 1-phosphate	CHEBI:18105	C01094	0	
+s_0557	D-fructose 6-phosphate	CHEBI:57579	C00085	-2	D-fructose 6-phosphate	CHEBI:57579	C00085	-2	
+s_0558	D-galactose	CHEBI:12936	C00124	0	D-galactose	CHEBI:12936	C00124	0	
+s_0560	D-galacturonate	CHEBI:12952	C00333	-1	D-galacturonate	CHEBI:12952	C00333	-1	
+s_0561	D-glucitol	CHEBI:17924	C00794	0	D-glucitol	CHEBI:17924	C00794	0	
+s_0563	D-glucose	CHEBI:4167	C00031	0	D-glucose	CHEBI:4167	C00031	0	
+s_0567	D-glucose 1-phosphate	CHEBI:57629	C00103	-2	D-glucose 1-phosphate	CHEBI:57629	C00103	-2	
+s_0568	D-glucose 6-phosphate	CHEBI:14314	C00092	0	D-glucose 6-phosphate	CHEBI:14314	C00092	0	
+s_0570	D-glyceraldehyde	CHEBI:17378	C00577	0	D-glyceraldehyde	CHEBI:17378	C00577	0	
+s_0571	D-mannose	CHEBI:16024	C00159	0	D-mannose	CHEBI:16024	C00159	0	
+s_0573	D-mannose 1-phosphate	CHEBI:35374	C00636	0	D-mannose 1-phosphate	CHEBI:35374	C00636	0	
+s_0574	D-mannose 6-phosphate	CHEBI:17369	C00275	0	D-mannose 6-phosphate	CHEBI:17369	C00275	0	
+s_0575	D-ribose	CHEBI:16988	C00121	0	D-ribose	CHEBI:16988	C00121	0	
+s_0577	D-ribulose 5-phosphate	CHEBI:58121	C00199	-2	D-ribulose 5-phosphate	CHEBI:58121	C00199	-2	
+s_0578	D-xylose	CHEBI:15936	C00181	0	D-xylose	CHEBI:15936	C00181	0	
+s_0580	D-xylulose	CHEBI:17140	C00310	0	D-xylulose	CHEBI:17140	C00310	0	
+s_0581	D-xylulose 5-phosphate	CHEBI:57737	C00231	-2	D-xylulose 5-phosphate	CHEBI:57737	C00231	-2	
+s_0582	dADP	CHEBI:57667	C00206	-3	dADP	CHEBI:57667	C00206	-3	
+s_0584	dAMP	CHEBI:58245	C00360	-2	dAMP	CHEBI:58245	C00360	-2	
+s_0586	dATP	CHEBI:61404	C00131	-4	dATP	CHEBI:61404	C00131	-4	
+s_0587	dCDP	CHEBI:58593	C00705	-3	dCDP	CHEBI:58593	C00705	-3	
+s_0589	dCMP	CHEBI:57566	C00239	-2	dCMP	CHEBI:57566	C00239	-2	
+s_0590	dCTP	CHEBI:57724	C00458	-3	dCTP	CHEBI:57724	C00458	-3	
+s_0595	decanoate	CHEBI:27689	C01571	-1	decanoate	CHEBI:27689	C01571	-1	
+s_0605	decanoyl-CoA	CHEBI:61430	C05274	-4	decanoyl-CoA	CHEBI:61430	C05274	-4	
+s_0607	dehydro-D-arabinono-1,4-lactone	CHEBI:58277	C06316	-1	dehydro-D-arabinono-1,4-lactone	CHEBI:58277	C06316	-1	
+s_0610	deoxycytidine	CHEBI:15698	C00881	0	deoxycytidine	CHEBI:15698	C00881	0	
+s_0612	dethiobiotin	CHEBI:57861	C01909	-1	dethiobiotin	CHEBI:57861	C01909	-1	
+s_0613	dGDP	CHEBI:58595	C00361	-3	dGDP	CHEBI:58595	C00361	-3	
+s_0615	dGMP	CHEBI:57673	C00362	-2	dGMP	CHEBI:57673	C00362	-2	
+s_0617	dGTP	CHEBI:57794	C00286	-3	dGTP	CHEBI:57794	C00286	-3	
+s_0618	dIDP	CHEBI:28823	C01344	0	dIDP	CHEBI:28823	C01344	0	
+s_0620	diglyceride	CHEBI:18035	C00165	0	diglyceride	CHEBI:18035	C00165	0	
+s_0625	dihydrofolic acid	CHEBI:57451	C00415	-2	dihydrofolic acid	CHEBI:57451	C00415	-2	
+s_0627	dihydrolipoamide	CHEBI:17694	C00579	0	dihydrolipoamide	CHEBI:17694	C00579	0	
+s_0628	dihydrolipoylprotein	CHEBI:16194	C02972	0	dihydrolipoylprotein	CHEBI:16194	C02972	0	
+s_0629	dihydroxyacetone phosphate	CHEBI:57642	C00111	-2	dihydroxyacetone phosphate	CHEBI:57642	C00111	-2	
+s_0633	diphosphate	CHEBI:33019	C00013	-3	diphosphate	CHEBI:33019	C00013	-3	
+s_0639	dITP	CHEBI:61382	C01345	-4	dITP	CHEBI:61382	C01345	-4	
+s_0642	dolichol	CHEBI:16091	C00381	0	dolichol	CHEBI:16091	C00381	0	
+s_0644	dolichyl D-mannosyl phosphate	CHEBI:15809	C03862	0	dolichyl D-mannosyl phosphate	CHEBI:15809	C03862	0	
+s_0645	dolichyl phosphate	CHEBI:16214	C00110	0	dolichyl phosphate	CHEBI:16214	C00110	0	
+s_0647	dTDP	CHEBI:58369	C00363	-3	dTDP	CHEBI:58369	C00363	-3	
+s_0649	dTMP	CHEBI:17013	C00364	0	dTMP	CHEBI:17013	C00364	0	
+s_0650	dTTP	CHEBI:58370	C00459	-3	dTTP	CHEBI:58370	C00459	-3	
+s_0652	dUDP	CHEBI:60471	C01346	-3	dUDP	CHEBI:60471	C01346	-3	
+s_0654	dUMP	CHEBI:246422	C00365	-2	dUMP	CHEBI:246422	C00365	-2	
+s_0656	dUTP	CHEBI:58212	C00460	-3	dUTP	CHEBI:58212	C00460	-3	
+s_0657	episterol	CHEBI:23929	C15777	0	episterol	CHEBI:23929	C15777	0	
+s_0662	ergosta-5,7,22,24(28)-tetraen-3beta-ol	CHEBI:18249	C05440	0	ergosta-5,7,22,24(28)-tetraen-3beta-ol	CHEBI:18249	C05440	0	
 s_0664	ergosta-5,7,24(28)-trien-3beta-ol	CHEBI:52972		0	ergosta-5,7,24(28)-trien-3beta-ol	CHEBI:52972	C15780	0	new keggid
+s_0665	ergosterol	CHEBI:16933	C01694	0	ergosterol	CHEBI:16933	C01694	0	
+s_0680	ethanol	CHEBI:16236	C00469	0	ethanol	CHEBI:16236	C00469	0	
+s_0683	ethanolamine	CHEBI:57603	C00189	1	ethanolamine	CHEBI:57603	C00189	1	
+s_0685	ethyl acetate	CHEBI:27750	C00849	0	ethyl acetate	CHEBI:27750	C00849	0	
+s_0687	FAD	CHEBI:57692	C00016	-3	FAD	CHEBI:57692	C00016	-3	
+s_0689	FADH2	CHEBI:58307	C01352	-2	FADH2	CHEBI:58307	C01352	-2	
+s_0694	fatty acid	CHEBI:35366	C00162	0	fatty acid	CHEBI:35366	C00162	0	
+s_0699	fecosterol	CHEBI:17038	C04525	0	fecosterol	CHEBI:17038	C04525	0	
+s_0709	ferricytochrome c	CHEBI:15991	C00125	0	ferricytochrome c	CHEBI:15991	C00125	0	
+s_0710	ferrocytochrome c	CHEBI:16928	C00126	0	ferrocytochrome c	CHEBI:16928	C00126	0	
+s_0714	FMN	CHEBI:58210	C00061	-3	FMN	CHEBI:58210	C00061	-3	
+s_0717	FMNH2	CHEBI:57618	C01847	-2	FMNH2	CHEBI:57618	C01847	-2	
+s_0719	folate	CHEBI:62501	C00504	-2	folate	CHEBI:62501	C00504	-2	
+s_0721	formaldehyde	CHEBI:16842	C00067	0	formaldehyde	CHEBI:16842	C00067	0	
+s_0722	formate	CHEBI:15740	C00058	-1	formate	CHEBI:15740	C00058	-1	
+s_0725	fumarate	CHEBI:29806	C00122	-2	fumarate	CHEBI:29806	C00122	-2	
+s_0739	GDP	CHEBI:58189	C00035	-3	GDP	CHEBI:58189	C00035	-3	
+s_0743	GDP-alpha-D-mannose	CHEBI:57527	C00096	-2	GDP-alpha-D-mannose	CHEBI:57527	C00096	-2	
+s_0745	geranyl diphosphate	CHEBI:58057	C00341	-3	geranyl diphosphate	CHEBI:58057	C00341	-3	
+s_0747	Gln-tRNA(Gln)	CHEBI:29166	C02282	0	Gln-tRNA(Gln)	CHEBI:29166	C02282	0	
+s_0750	glutathione	CHEBI:57925	C00051	-1	glutathione	CHEBI:57925	C00051	-1	
+s_0754	glutathione disulfide	CHEBI:58297	C00127	-2	glutathione disulfide	CHEBI:58297	C00127	-2	
+s_0764	glyceraldehyde 3-phosphate	CHEBI:58027	C00661	-2	glyceraldehyde 3-phosphate	CHEBI:58027	C00661	-2	
+s_0765	glycerol	CHEBI:17754	C00116	0	glycerol	CHEBI:17754	C00116	0	
+s_0771	glycerone	CHEBI:16016	C00184	0	glycerone	CHEBI:16016	C00184	0	
+s_0773	glycogen	CHEBI:28087	C00182	0	glycogen	CHEBI:28087	C00182	0	
+s_0775	glycolaldehyde	CHEBI:17071	C00266	0	glycolaldehyde	CHEBI:17071	C00266	0	
+s_0779	glyoxylate	CHEBI:36655	C00048	-1	glyoxylate	CHEBI:36655	C00048	-1	
+s_0782	GMP	CHEBI:58115	C00144	-2	GMP	CHEBI:58115	C00144	-2	
+s_0785	GTP	CHEBI:57600	C00044	-3	GTP	CHEBI:57600	C00044	-3	
+s_0787	guanine	CHEBI:16235	C00242	0	guanine	CHEBI:16235	C00242	0	
+s_0790	guanosine	CHEBI:16750	C00387	0	guanosine	CHEBI:16750	C00387	0	
+s_0793	H+	CHEBI:24636	C00080	1	H+	CHEBI:24636	C00080	1	
+s_0803	H2O	CHEBI:15377	C00001	0	H2O	CHEBI:15377	C00001	0	
+s_0811	heme a	CHEBI:24479	C15670	0	heme a	CHEBI:24479	C15670	0	
+s_0812	heme o	CHEBI:24480	C15672	0	heme o	CHEBI:24480	C15672	0	
+s_0825	hexadecanal	CHEBI:17600	C00517	0	hexadecanal	CHEBI:17600	C00517	0	
+s_0834	homocitrate	CHEBI:36457	C01251	-3	homocitrate	CHEBI:36457	C01251	-3	
+s_0836	homoisocitrate	CHEBI:30904	C05662	-3	homoisocitrate	CHEBI:30904	C05662	-3	
+s_0837	hydrogen peroxide	CHEBI:16240	C00027	0	hydrogen peroxide	CHEBI:16240	C00027	0	
+s_0841	hydrogen sulfide	CHEBI:29919	C00283	-1	hydrogen sulfide	CHEBI:29919	C00283	-1	
+s_0843	hypoxanthine	CHEBI:17368	C00262	0	hypoxanthine	CHEBI:17368	C00262	0	
+s_0846	IDP	CHEBI:58280	C00104	-3	IDP	CHEBI:58280	C00104	-3	
+s_0849	IMP	CHEBI:58053	C00130	-2	IMP	CHEBI:58053	C00130	-2	
+s_0853	indole-3-acetate	CHEBI:30854	C00954	-1	indole-3-acetate	CHEBI:30854	C00954	-1	
+s_0855	indole-3-pyruvate	CHEBI:17640	C00331	-1	indole-3-pyruvate	CHEBI:17640	C00331	-1	
+s_0856	inosine	CHEBI:17596	C00294	0	inosine	CHEBI:17596	C00294	0	
 s_0924	iron	CHEBI:29033	C14818	2	iron(2+)	CHEBI:29033	C14818	2	update fullname
+s_0940	isocitrate	CHEBI:16087	C00311	-3	isocitrate	CHEBI:16087	C00311	-3	
+s_0943	isopentenyl diphosphate	CHEBI:128769	C00129	-3	isopentenyl diphosphate	CHEBI:128769	C00129	-3	
+s_0946	itaconate	CHEBI:17240	C00490	-2	itaconate	CHEBI:17240	C00490	-2	
+s_0949	itaconyl-CoA	CHEBI:57381	C00531	-5	itaconyl-CoA	CHEBI:57381	C00531	-5	
+s_0950	ITP	CHEBI:61402	C00081	-4	ITP	CHEBI:61402	C00081	-4	
+s_0951	keto-phenylpyruvate	CHEBI:18005	C00166	-1	keto-phenylpyruvate	CHEBI:18005	C00166	-1	
+s_0952	L-2-amino-3-oxobutanoate	CHEBI:40673	C03508	0	L-2-amino-3-oxobutanoate	CHEBI:40673	C03508	0	
+s_0953	L-2-aminoadipate	CHEBI:58672	C00956	-1	L-2-aminoadipate	CHEBI:58672	C00956	-1	
+s_0955	L-alanine	CHEBI:16977	C00041	0	L-alanine	CHEBI:16977	C00041	0	
+s_0958	L-allothreonine	CHEBI:28718	C05519	0	L-allothreonine	CHEBI:28718	C05519	0	
+s_0959	L-allysine	CHEBI:17917	C04076	0	L-allysine	CHEBI:17917	C04076	0	
+s_0961	L-arabinitol	CHEBI:18403	C00532	0	L-arabinitol	CHEBI:18403	C00532	0	
+s_0963	L-arabinose	CHEBI:30849	C00259	0	L-arabinose	CHEBI:30849	C00259	0	
+s_0965	L-arginine	CHEBI:32682	C00062	1	L-arginine	CHEBI:32682	C00062	1	
+s_0969	L-asparagine	CHEBI:17196	C00152	0	L-asparagine	CHEBI:17196	C00152	0	
+s_0973	L-aspartate	CHEBI:29991	C00049	-1	L-aspartate	CHEBI:29991	C00049	-1	
+s_0978	L-aspartate 4-semialdehyde	CHEBI:18051	C00441	0	L-aspartate 4-semialdehyde	CHEBI:18051	C00441	0	
+s_0979	L-citrulline	CHEBI:16349	C00327	0	L-citrulline	CHEBI:16349	C00327	0	
+s_0980	L-cystathionine	CHEBI:17482	C02291	0	L-cystathionine	CHEBI:17482	C02291	0	
+s_0981	L-cysteine	CHEBI:17561	C00097	0	L-cysteine	CHEBI:17561	C00097	0	
+s_0983	L-cysteinylglycine	CHEBI:4047	C01419	0	L-cysteinylglycine	CHEBI:4047	C01419	0	
+s_0984	L-cystine	CHEBI:16283	C00491	0	L-cystine	CHEBI:16283	C00491	0	
+s_0989	L-glucitol	CHEBI:28789	C01722	0	L-glucitol	CHEBI:28789	C01722	0	
+s_0991	L-glutamate	CHEBI:29985	C00025	-1	L-glutamate	CHEBI:29985	C00025	-1	
+s_0999	L-glutamine	CHEBI:18050	C00064	0	L-glutamine	CHEBI:18050	C00064	0	
+s_1006	L-histidine	CHEBI:15971	C00135	0	L-histidine	CHEBI:15971	C00135	0	
+s_1010	L-histidinol	CHEBI:57699	C00860	1	L-histidinol	CHEBI:57699	C00860	1	
+s_1011	L-histidinol phosphate	CHEBI:57980	C01100	-1	L-histidinol phosphate	CHEBI:57980	C01100	-1	
+s_1012	L-homocysteine	CHEBI:17588	C00155	0	L-homocysteine	CHEBI:17588	C00155	0	
+s_1014	L-homoserine	CHEBI:15699	C00263	0	L-homoserine	CHEBI:15699	C00263	0	
+s_1016	L-isoleucine	CHEBI:17191	C00407	0	L-isoleucine	CHEBI:17191	C00407	0	
+s_1020	L-kynurenine	CHEBI:16946	C00328	0	L-kynurenine	CHEBI:16946	C00328	0	
+s_1021	L-leucine	CHEBI:15603	C00123	0	L-leucine	CHEBI:15603	C00123	0	
+s_1025	L-lysine	CHEBI:32551	C00047	1	L-lysine	CHEBI:32551	C00047	1	
+s_1029	L-methionine	CHEBI:16643	C00073	0	L-methionine	CHEBI:16643	C00073	0	
+s_1032	L-phenylalanine	CHEBI:17295	C00079	0	L-phenylalanine	CHEBI:17295	C00079	0	
+s_1035	L-proline	CHEBI:17203	C00148	0	L-proline	CHEBI:17203	C00148	0	
+s_1038	L-saccharopine	CHEBI:57951	C00449	-1	L-saccharopine	CHEBI:57951	C00449	-1	
+s_1039	L-serine	CHEBI:17115	C00065	0	L-serine	CHEBI:17115	C00065	0	
+s_1043	L-sorbose	CHEBI:17266	C00247	0	L-sorbose	CHEBI:17266	C00247	0	
+s_1045	L-threonine	CHEBI:16857	C00188	0	L-threonine	CHEBI:16857	C00188	0	
+s_1048	L-tryptophan	CHEBI:16828	C00078	0	L-tryptophan	CHEBI:16828	C00078	0	
+s_1051	L-tyrosine	CHEBI:17895	C00082	0	L-tyrosine	CHEBI:17895	C00082	0	
+s_1056	L-valine	CHEBI:16414	C00183	0	L-valine	CHEBI:16414	C00183	0	
+s_1059	lanosterol	CHEBI:16521	C01724	0	lanosterol	CHEBI:16521	C01724	0	
+s_1073	lauroyl-CoA	CHEBI:57375	C01832	-4	lauroyl-CoA	CHEBI:57375	C01832	-4	
+s_1079	leukotriene A4	CHEBI:57463	C00909	-1	leukotriene A4	CHEBI:57463	C00909	-1	
+s_1081	leukotriene B4	CHEBI:57461	C02165	-1	leukotriene B4	CHEBI:57461	C02165	-1	
+s_1085	lignoceric acid	CHEBI:31014	C08320	-1	lignoceric acid	CHEBI:31014	C08320	-1	
+s_1096	lipid	CHEBI:18059	C01356	0	lipid	CHEBI:18059	C01356	0	
+s_1097	lipoamide	CHEBI:17460	C00248	0	lipoamide	CHEBI:17460	C00248	0	
+s_1098	lipoylprotein	CHEBI:15804	C02051	0	lipoylprotein	CHEBI:15804	C02051	0	
+s_1101	malonyl-CoA	CHEBI:57384	C00083	-5	malonyl-CoA	CHEBI:57384	C00083	-5	
+s_1105	maltose	CHEBI:17306	C00208	0	maltose	CHEBI:17306	C00208	0	
+s_1107	mannan	CHEBI:28808	C00464	0	mannan	CHEBI:28808	C00464	0	
+s_1150	methanethiol	CHEBI:16007	C00409	0	methanethiol	CHEBI:16007	C00409	0	
+s_1151	methylglyoxal	CHEBI:17158	C00546	0	methylglyoxal	CHEBI:17158	C00546	0	
+s_1153	myo-inositol	CHEBI:17268	C00137	0	myo-inositol	CHEBI:17268	C00137	0	
+s_1158	myo-inositol hexakisphosphate	CHEBI:58130	C01204	-12	myo-inositol hexakisphosphate	CHEBI:58130	C01204	-12	
+s_1176	myristoyl-CoA	CHEBI:57385	C02593	-4	myristoyl-CoA	CHEBI:57385	C02593	-4	
+s_1184	N,N'-diacetylchitobiosyldiphosphodolichol	CHEBI:12427	C04537	0	N,N'-diacetylchitobiosyldiphosphodolichol	CHEBI:12427	C04537	0	
+s_1187	N-(5-phospho-beta-D-ribosyl)anthranilate	CHEBI:18277	C04302	-3	N-(5-phospho-beta-D-ribosyl)anthranilate	CHEBI:18277	C04302	-3	
+s_1189	N-acetyl-alpha-D-glucosamine 1-phosphate	CHEBI:16446	C04501	0	N-acetyl-alpha-D-glucosamine 1-phosphate	CHEBI:16446	C04501	0	
+s_1190	N-acetyl-D-glucosamine 6-phosphate	CHEBI:57513	C00357	-2	N-acetyl-D-glucosamine 6-phosphate	CHEBI:57513	C00357	-2	
+s_1192	N-acetyl-L-glutamate	CHEBI:44337	C00624	-2	N-acetyl-L-glutamate	CHEBI:44337	C00624	-2	
+s_1193	N-acetylputrescine	CHEBI:58263	C02714	1	N-acetylputrescine	CHEBI:58263	C02714	1	
+s_1194	N-carbamoyl-L-aspartate	CHEBI:32814	C00438	-2	N-carbamoyl-L-aspartate	CHEBI:32814	C00438	-2	
+s_1195	N-formyl-L-kynurenine	CHEBI:30249	C02700	0	N-formyl-L-kynurenine	CHEBI:30249	C02700	0	
+s_1198	NAD	CHEBI:57540	C00003	-1	NAD	CHEBI:57540	C00003	-1	
+s_1203	NADH	CHEBI:57945	C00004	-2	NADH	CHEBI:57945	C00004	-2	
+s_1212	NADPH	CHEBI:57783	C00005	-4	NADPH	CHEBI:57783	C00005	-4	
+s_1216	nicotinamide	CHEBI:17154	C00153	0	nicotinamide	CHEBI:17154	C00153	0	
+s_1219	nicotinate	CHEBI:32544	C00253	-1	nicotinate	CHEBI:32544	C00253	-1	
+s_1224	NMN	CHEBI:14649	C00455	-1	NMN	CHEBI:14649	C00455	-1	
+s_1233	O-acetyl-L-homoserine	CHEBI:16288	C01077	0	O-acetyl-L-homoserine	CHEBI:16288	C01077	0	
+s_1234	O-acetyl-L-serine	CHEBI:17981	C00979	0	O-acetyl-L-serine	CHEBI:17981	C00979	0	
+s_1235	O-acetylcarnitine	CHEBI:57589	C02571	0	O-acetylcarnitine	CHEBI:57589	C02571	0	
+s_1238	O-phospho-L-homoserine	CHEBI:57590	C01102	-2	O-phospho-L-homoserine	CHEBI:57590	C01102	-2	
+s_1239	O-phosphoethanolamine	CHEBI:58190	C00346	-1	O-phosphoethanolamine	CHEBI:58190	C00346	-1	
+s_1241	O-succinyl-L-homoserine	CHEBI:57661	C01118	-1	O-succinyl-L-homoserine	CHEBI:57661	C01118	-1	
+s_1258	octanoyl-CoA	CHEBI:57386	C01944	-4	octanoyl-CoA	CHEBI:57386	C01944	-4	
+s_1260	oleate	CHEBI:30823	C00712	-1	oleate	CHEBI:30823	C00712	-1	
+s_1262	oleoyl-CoA	CHEBI:57387	C00510	-4	oleoyl-CoA	CHEBI:57387	C00510	-4	
+s_1266	ornithine	CHEBI:46912	C01602	1	ornithine	CHEBI:46912	C01602	1	
+s_1269	orotate	CHEBI:30839	C00295	-1	orotate	CHEBI:30839	C00295	-1	
+s_1271	oxaloacetate	CHEBI:16452	C00036	-2	oxaloacetate	CHEBI:16452	C00036	-2	
+s_1275	oxygen	CHEBI:15379	C00007	0	oxygen	CHEBI:15379	C00007	0	
+s_1286	palmitate	CHEBI:7896	C00249	-1	palmitate	CHEBI:7896	C00249	-1	
+s_1302	palmitoyl-CoA	CHEBI:57379	C00154	-4	palmitoyl-CoA	CHEBI:57379	C00154	-4	
+s_1307	pantetheine 4'-phosphate	CHEBI:47942	C01134	-2	pantetheine 4'-phosphate	CHEBI:47942	C01134	-2	
+s_1309	pectin	CHEBI:17309	C00714	0	pectin	CHEBI:17309	C00714	0	
+s_1316	phenethyl acetate	CHEBI:31988	C12303	0	phenethyl acetate	CHEBI:31988	C12303	0	
+s_1318	phenylacetaldehyde	CHEBI:16424	C00601	0	phenylacetaldehyde	CHEBI:16424	C00601	0	
+s_1321	phenylacetic acid	CHEBI:18401	C07086	-1	phenylacetic acid	CHEBI:18401	C07086	-1	
+s_1322	phosphate	CHEBI:43474	C00009	-2	phosphate	CHEBI:43474	C00009	-2	
+s_1337	phosphatidyl-L-serine	CHEBI:18303	C02737	0	phosphatidyl-L-serine	CHEBI:18303	C02737	0	
+s_1346	phosphatidylcholine	CHEBI:49183	C00157	1	phosphatidylcholine	CHEBI:49183	C00157	1	
+s_1351	phosphatidylethanolamine	CHEBI:16038	C00350	0	phosphatidylethanolamine	CHEBI:16038	C00350	0	
+s_1360	phosphoenolpyruvate	CHEBI:58702	C00074	-3	phosphoenolpyruvate	CHEBI:58702	C00074	-3	
+s_1366	phytosphingosine	CHEBI:46961	C12144	0	phytosphingosine	CHEBI:46961	C12144	0	
+s_1368	pimeloyl-CoA	CHEBI:57360	C01063	-5	pimeloyl-CoA	CHEBI:57360	C01063	-5	
+s_1372	porphobilinogen	CHEBI:58126	C00931	-1	porphobilinogen	CHEBI:58126	C00931	-1	
 s_1376	prenyl diphosphate	CHEBI:57623	C00235	-3	prenyl diphosphate(3-)	CHEBI:57623	C00235	-3	update fullname
+s_1377	prephenate	CHEBI:29934	C00254	-2	prephenate	CHEBI:29934	C00254	-2	
+s_1382	propionyl-CoA	CHEBI:57392	C00100	-4	propionyl-CoA	CHEBI:57392	C00100	-4	
+s_1383	protoporphyrin	CHEBI:36159	C02191	-2	protoporphyrin	CHEBI:36159	C02191	-2	
+s_1386	PRPP	CHEBI:58017	C00119	-5	PRPP	CHEBI:58017	C00119	-5	
+s_1388	pseudouridine 5'-phosphate	CHEBI:58380	C01168	-2	pseudouridine 5'-phosphate	CHEBI:58380	C01168	-2	
+s_1389	putrescine	CHEBI:326268	C00134	2	putrescine	CHEBI:326268	C00134	2	
+s_1392	pyridoxal	CHEBI:17310	C00250	0	pyridoxal	CHEBI:17310	C00250	0	
+s_1393	pyridoxal 5'-phosphate	CHEBI:597326	C00018	-2	pyridoxal 5'-phosphate	CHEBI:597326	C00018	-2	
+s_1394	pyridoxamine	CHEBI:57761	C00534	1	pyridoxamine	CHEBI:57761	C00534	1	
+s_1395	pyridoxamine 5'-phosphate	CHEBI:58451	C00647	-1	pyridoxamine 5'-phosphate	CHEBI:58451	C00647	-1	
+s_1396	pyridoxine	CHEBI:16709	C00314	0	pyridoxine	CHEBI:16709	C00314	0	
+s_1398	pyridoxine 5'-phosphate	CHEBI:58589	C00627	-2	pyridoxine 5'-phosphate	CHEBI:58589	C00627	-2	
+s_1399	pyruvate	CHEBI:15361	C00022	-1	pyruvate	CHEBI:15361	C00022	-1	
+s_1403	quinolinate	CHEBI:29959	C03722	-2	quinolinate	CHEBI:29959	C03722	-2	
+s_1405	riboflavin	CHEBI:57986	C00255	-1	riboflavin	CHEBI:57986	C00255	-1	
+s_1412	S-adenosyl-4-methylthio-2-oxobutanoate	CHEBI:16490	C04425	0	S-adenosyl-4-methylthio-2-oxobutanoate	CHEBI:16490	C04425	0	
+s_1413	S-adenosyl-L-homocysteine	CHEBI:16680	C00021	0	S-adenosyl-L-homocysteine	CHEBI:16680	C00021	0	
+s_1416	S-adenosyl-L-methionine	CHEBI:15414	C00019	1	S-adenosyl-L-methionine	CHEBI:15414	C00019	1	
+s_1420	S-adenosylmethioninamine	CHEBI:57443	C01137	2	S-adenosylmethioninamine	CHEBI:57443	C01137	2	
+s_1421	S-formylglutathione	CHEBI:57688	C01031	-1	S-formylglutathione	CHEBI:57688	C01031	-1	
+s_1422	S-methyl-5-thio-alpha-D-ribose 1-phosphate	CHEBI:58533	C04188	-2	S-methyl-5-thio-alpha-D-ribose 1-phosphate	CHEBI:58533	C04188	-2	
+s_1423	S-methyl-5-thio-D-ribulose 1-phosphate	CHEBI:58548	C04582	-2	S-methyl-5-thio-D-ribulose 1-phosphate	CHEBI:58548	C04582	-2	
+s_1424	S-methyl-L-methionine	CHEBI:17728	C03172	1	S-methyl-L-methionine	CHEBI:17728	C03172	1	
+s_1426	sedoheptulose 1,7-bisphosphate	CHEBI:58335	C00447	-4	sedoheptulose 1,7-bisphosphate	CHEBI:58335	C00447	-4	
+s_1427	sedoheptulose 7-phosphate	CHEBI:57483	C05382	-2	sedoheptulose 7-phosphate	CHEBI:57483	C05382	-2	
+s_1429	shikimate	CHEBI:36208	C00493	-1	shikimate	CHEBI:36208	C00493	-1	
+s_1430	siroheme	CHEBI:60052	C00748	-8	siroheme	CHEBI:60052	C00748	-8	
+s_1431	sirohydrochlorin	CHEBI:58351	C05778	-8	sirohydrochlorin	CHEBI:58351	C05778	-8	
 s_1432	sn-glycero-3-phosphocholine	CHEBI:16870	C00670	1	sn-glycero-3-phosphocholine	CHEBI:16870	C00670	0	Update charge. Wrong standard formula and charge according to the chebiID
-s_1532	TTP	CHEBI:58938	C03028	-3	thiamine(1+) triphosphate(4-)	CHEBI:58938	C03028	-3	update fullname
+s_1439	spermidine	CHEBI:57834	C00315	3	spermidine	CHEBI:57834	C00315	3	
+s_1442	spermine	CHEBI:45725	C00750	4	spermine	CHEBI:45725	C00750	4	
+s_1445	sphinganine	CHEBI:57817	C00836	1	sphinganine	CHEBI:57817	C00836	1	
+s_1446	sphinganine 1-phosphate	CHEBI:57939	C01120	-1	sphinganine 1-phosphate	CHEBI:57939	C01120	-1	
+s_1447	squalene	CHEBI:15440	C00751	0	squalene	CHEBI:15440	C00751	0	
+s_1449	stearate	CHEBI:25629	C01530	-1	stearate	CHEBI:25629	C01530	-1	
+s_1454	stearoyl-CoA	CHEBI:57394	C00412	-4	stearoyl-CoA	CHEBI:57394	C00412	-4	
+s_1458	succinate	CHEBI:30031	C00042	-2	succinate	CHEBI:30031	C00042	-2	
+s_1461	succinic semialdehyde	CHEBI:57706	C00232	-1	succinic semialdehyde	CHEBI:57706	C00232	-1	
+s_1464	succinyl-CoA	CHEBI:57292	C00091	-5	succinyl-CoA	CHEBI:57292	C00091	-5	
+s_1466	sucrose	CHEBI:17992	C00089	0	sucrose	CHEBI:17992	C00089	0	
+s_1471	taurine	CHEBI:15891	C00245	0	taurine	CHEBI:15891	C00245	0	
+s_1473	taurocholic acid	CHEBI:36257	C05122	-1	taurocholic acid	CHEBI:36257	C05122	-1	
+s_1479	tetracosanoyl-CoA	CHEBI:52974	C16529	0	tetracosanoyl-CoA	CHEBI:52974	C16529	0	
+s_1487	THF	CHEBI:20506	C00101	0	THF	CHEBI:20506	C00101	0	
+s_1489	thiamine	CHEBI:18385	C00378	1	thiamine	CHEBI:18385	C00378	1	
+s_1493	thymidine	CHEBI:17748	C00214	0	thymidine	CHEBI:17748	C00214	0	
+s_1497	TMP	CHEBI:9533	C01081	1	TMP	CHEBI:9533	C01081	1	
+s_1503	trans-aconitate	CHEBI:15708	C02341	-3	trans-aconitate	CHEBI:15708	C02341	-3	
+s_1507	trans-dec-2-enoyl-CoA	CHEBI:61406	C05275	-4	trans-dec-2-enoyl-CoA	CHEBI:61406	C05275	-4	
+s_1516	trans-octadec-2-enoyl-CoA	CHEBI:50570	C16218	0	trans-octadec-2-enoyl-CoA	CHEBI:50570	C16218	0	
+s_1519	trans-tetradec-2-enoyl-CoA	CHEBI:61405	C05273	-4	trans-tetradec-2-enoyl-CoA	CHEBI:61405	C05273	-4	
+s_1520	trehalose	CHEBI:16551	C01083	0	trehalose	CHEBI:16551	C01083	0	
+s_1524	triglyceride	CHEBI:17855	C00422	0	triglyceride	CHEBI:17855	C00422	0	
+s_1526	trimethylenediamine	CHEBI:57484	C00986	2	trimethylenediamine	CHEBI:57484	C00986	2	
+s_1529	tryptophol	CHEBI:17890	C00955	0	tryptophol	CHEBI:17890	C00955	0	
+s_1532	TTP	CHEBI:58938	C03028	-3	thiamine(1+) triphosphate(4_)	CHEBI:58938	C03028	-3	update fullname
+s_1537	ubiquinone-6	CHEBI:52971	C17568	0	ubiquinone-6	CHEBI:52971	C17568	0	
+s_1538	UDP	CHEBI:58223	C00015	-3	UDP	CHEBI:58223	C00015	-3	
+s_1541	UDP-D-galactose	CHEBI:58439	C00052	-2	UDP-D-galactose	CHEBI:58439	C00052	-2	
+s_1543	UDP-D-glucose	CHEBI:58367	C00029	-2	UDP-D-glucose	CHEBI:58367	C00029	-2	
+s_1544	UDP-N-acetyl-alpha-D-glucosamine	CHEBI:57705	C00043	-2	UDP-N-acetyl-alpha-D-glucosamine	CHEBI:57705	C00043	-2	
+s_1545	UMP	CHEBI:57865	C00105	-2	UMP	CHEBI:57865	C00105	-2	
+s_1549	undecaprenyl diphosphate	CHEBI:53042	C03543	0	undecaprenyl diphosphate	CHEBI:53042	C03543	0	
+s_1550	uracil	CHEBI:17568	C00106	0	uracil	CHEBI:17568	C00106	0	
+s_1552	urea	CHEBI:16199	C00086	0	urea	CHEBI:16199	C00086	0	
+s_1555	ureidoglycolic acid	CHEBI:49050	C05241	0	ureidoglycolic acid	CHEBI:49050	C05241	0	
+s_1556	uridine	CHEBI:16704	C00299	0	uridine	CHEBI:16704	C00299	0	
+s_1558	uroporphyrinogen III	CHEBI:57308	C01051	-8	uroporphyrinogen III	CHEBI:57308	C01051	-8	
+s_1559	UTP	CHEBI:46398	C00075	-4	UTP	CHEBI:46398	C00075	-4	
+s_1563	xanthosine	CHEBI:18107	C01762	0	xanthosine	CHEBI:18107	C01762	0	
+s_1566	xylitol	CHEBI:17151	C00379	0	xylitol	CHEBI:17151	C00379	0	
+s_1568	zymosterol	CHEBI:18252	C05437	0	zymosterol	CHEBI:18252	C05437	0	
+s_2763	kynurenic acid	CHEBI:18344	C01717	0	kynurenic acid	CHEBI:18344	C01717	0	
+s_2764	quinaldic acid	CHEBI:18386	C06325	0	quinaldic acid	CHEBI:18386	C06325	0	
 s_2793	icosanoyl-CoA	CHEBI:15830	C01092	0	icosanoyl-CoA	CHEBI:15527	C02041	0	Wrong chebiID and keggid
 s_2795	docosanoyl-CoA	CHEBI:15343	C00084	0	docosanoyl-CoA	CHEBI:65088	C16528	0	Wrong chebiID and keggid. Has charge of -4
 s_2810	trans-hexadec-2-enoyl-CoA	CHEBI:16040	C00380	0	trans-hexadec-2-enoyl-CoA	CHEBI:24549	C05272	0	Wrong chebiID and keggid
-s_2819	palmitoleoyl-CoA	CHEBI:15936	C00181	-4	palmitoleoyl-CoA(4-)	CHEBI:61540	C21072	-4	wrong chebiID and keggid. update fullname, keggid and full name in chebi
+s_2819	palmitoleoyl-CoA	CHEBI:15936	C00181	-4	palmitoleoyl-CoA(4_)	CHEBI:61540	C21072	-4	wrong chebiID and keggid. update fullname, keggid and full name in chebi
 s_2822	butyrate	CHEBI:58370	C00459	0	butyrate	CHEBI:17968	C00246	-1	wrong chebiID and keggid. update keggid, formula and charge
 s_2824	hexanoate	CHEBI:23929	C15777	0	hexanoate	CHEBI:17120	C01585	-1	Wrong chebiID and keggid. update keggid, formula and charge
 s_2884	butanoyl-CoA	CHEBI:17306	C00208	0	butanoyl-CoA	CHEBI:15517	C00136	0	wrong chebiID and keggid. Has charge of -4
@@ -23,36 +454,283 @@ s_2916	3-oxooctanoyl-CoA	CHEBI:18385	C00378	0	3-oxooctanoyl-CoA	CHEBI:28264	C052
 s_3477	sn-glycero-3-phosphoethanolamine			0	sn-glycero-3-phosphoethanolamine	CHEBI:16929	C01233	0	new chebiID. New keggid
 s_3715	raffinose			0	raffinose	CHEBI:16634	C00492	0	new chebiID. New keggid
 s_3716	melibiose			0	melibiose	CHEBI:28053	C05402	0	new chebiID. New keggid
+s_0001	(1->3)-beta-D-glucan	CHEBI:37671	C00965	0	(1->3)-beta-D-glucan	CHEBI:37671	C00965	0	
+s_0004	(1->6)-beta-D-glucan	CHEBI:27380	C02493	0	(1->6)-beta-D-glucan	CHEBI:27380	C02493	0	
+s_0006	(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl trihydrogen diphosphate	CHEBI:57602	C04807	-3	(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl trihydrogen diphosphate	CHEBI:57602	C04807	-3	
+s_0007	(2E)-3-(methoxycarbonyl)pent-2-enedioic acid	CHEBI:57470	C11514	-2	(2E)-3-(methoxycarbonyl)pent-2-enedioic acid	CHEBI:57470	C11514	-2	
+s_0012	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylic acid	CHEBI:57429	C04593	-3	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylic acid	CHEBI:57429	C04593	-3	
+s_0013	(5S,6S)-di-HETE	CHEBI:53026		0	(5S,6S)-di-HETE	CHEBI:53026		0	
+s_0015	(N(omega)-L-arginino)succinic acid	CHEBI:57472	C03406	-1	(N(omega)-L-arginino)succinic acid	CHEBI:57472	C03406	-1	
+s_0017	(R)-4'-phosphopantothenic acid	CHEBI:15905	C03492	0	(R)-4'-phosphopantothenic acid	CHEBI:15905	C03492	0	
+s_0018	(R)-5-diphosphomevalonic acid	CHEBI:57557	C01143	-4	(R)-5-diphosphomevalonic acid	CHEBI:57557	C01143	-4	
+s_0019	(R)-5-phosphomevalonic acid	CHEBI:58146	C01107	-3	(R)-5-phosphomevalonic acid	CHEBI:58146	C01107	-3	
+s_0039	(S)-2-acetyl-2-hydroxybutanoate	CHEBI:49256	C06006	-1	(S)-2-acetyl-2-hydroxybutanoate	CHEBI:49256	C06006	-1	
+s_0042	(R)-3-hydroxydecanoyl-CoA	CHEBI:28325	C05264	0	(R)-3-hydroxydecanoyl-CoA	CHEBI:28325	C05264	0	
+s_0045	(S)-3-hydroxyhexacosanoyl-CoA	CHEBI:52976		0	(S)-3-hydroxyhexacosanoyl-CoA	CHEBI:52976		0	
+s_0048	(R)-3-hydroxylauroyl-CoA	CHEBI:27668	C05262	0	(R)-3-hydroxylauroyl-CoA	CHEBI:27668	C05262	0	
+s_0051	(S)-3-hydroxypalmitoyl-CoA	CHEBI:27402	C05258	0	(S)-3-hydroxypalmitoyl-CoA	CHEBI:27402	C05258	0	
+s_0077	1-(5-phospho-D-ribosyl)-5-[(5-phospho-D-ribosylamino)methylideneamino]imidazole-4-carboxamide	CHEBI:58435	C04896	-4	1-(5-phospho-D-ribosyl)-5-[(5-phospho-D-ribosylamino)methylideneamino]imidazole-4-carboxamide	CHEBI:58435	C04896	-4	
+s_0078	1-(5-phosphoribosyl)-5'-AMP	CHEBI:59457	C02741	-4	1-(5-phosphoribosyl)-5'-AMP	CHEBI:59457	C02741	-4	
+s_0116	1-pyrroline-3-hydroxy-5-carboxylic acid	CHEBI:58509	C04281	-1	1-pyrroline-3-hydroxy-5-carboxylic acid	CHEBI:58509	C04281	-1	
+s_0136	2'-deoxyinosine	CHEBI:28997	C05512	0	2'-deoxyinosine	CHEBI:28997	C05512	0	
+s_0140	2,3-bisphospho-D-glyceric acid	CHEBI:58248	C01159	-5	2,3-bisphospho-D-glyceric acid	CHEBI:58248	C01159	-5	
+s_0141	2,5-diamino-4-hydroxy-6-(5-phosphoribosylamino)pyrimidine	CHEBI:58614	C01304	-2	2,5-diamino-4-hydroxy-6-(5-phosphoribosylamino)pyrimidine	CHEBI:58614	C01304	-2	
+s_0142	2,5-diamino-6-(5-phosphono)ribitylamino-4(3H)-pyrimidinone	CHEBI:52957		0	2,5-diamino-6-(5-phosphono)ribitylamino-4(3H)-pyrimidinone	CHEBI:52957		0	
+s_0143	2-(3-amino-3-carboxypropyl)-L-histidine	CHEBI:17144	C04441	0	2-(3-amino-3-carboxypropyl)-L-histidine	CHEBI:17144	C04441	0	
+s_0146	2-acetyllactic acid	CHEBI:57774	C00900	-1	2-acetyllactic acid	CHEBI:57774	C00900	-1	
+s_0147	2-amino-3-carboxymuconate-6-semialdehyde	CHEBI:29044		-2	2-amino-3-carboxymuconate-6-semialdehyde	CHEBI:29044		-2	
+s_0148	2-amino-6-(hydroxymethyl)-7,8-dihydropteridin-4-ol	CHEBI:17083	C01300	0	2-amino-6-(hydroxymethyl)-7,8-dihydropteridin-4-ol	CHEBI:17083	C01300	0	
+s_0154	2-hexaprenyl-5-hydroxy-6-methoxy-3-methyl-1,4-benzoquinone	CHEBI:28753	C05805	0	2-hexaprenyl-5-hydroxy-6-methoxy-3-methyl-1,4-benzoquinone	CHEBI:28753	C05805	0	
+s_0156	2-hexaprenyl-6-methoxy-3-methyl-1,4-benzoquinone	CHEBI:28711	C05804	0	2-hexaprenyl-6-methoxy-3-methyl-1,4-benzoquinone	CHEBI:28711	C05804	0	
+s_0161	2-hydroxyhexadecanal	CHEBI:50626		0	2-hydroxyhexadecanal	CHEBI:50626		0	
 s_0162	2-isopropylmalate	CHEBI:35129	C02504	-2	2-isopropylmalate	CHEBI:28107	C02504	-2	Wrong chebiID.
+s_0165	2-isopropylmaleic acid	CHEBI:58085	C02631	-2	2-isopropylmaleic acid	CHEBI:58085	C02631	-2	
+s_0169	2-methylbutanol	CHEBI:48945		0	2-methylbutanol	CHEBI:48945		0	
+s_0172	2-methylbutyl acetate	CHEBI:50585		0	2-methylbutyl acetate	CHEBI:50585		0	
+s_0188	2-phospho-D-glyceric acid	CHEBI:58289	C00631	-3	2-phospho-D-glyceric acid	CHEBI:58289	C00631	-3	
+s_0207	3-(imidazol-4-yl)-2-oxopropyl dihydrogen phosphate	CHEBI:57766	C01267	-2	3-(imidazol-4-yl)-2-oxopropyl dihydrogen phosphate	CHEBI:57766	C01267	-2	
+s_0209	3-dehydro-4-methylzymosterol	CHEBI:50593	C15816	0	3-dehydro-4-methylzymosterol	CHEBI:50593	C15816	0	
+s_0212	3-hexaprenyl-4,5-dihydroxybenzoic acid	CHEBI:58373	C05200	-1	3-hexaprenyl-4,5-dihydroxybenzoic acid	CHEBI:58373	C05200	-1	
+s_0214	3-hexaprenyl-4-hydroxy-5-methoxybenzoic acid	CHEBI:57916	C05313	-1	3-hexaprenyl-4-hydroxy-5-methoxybenzoic acid	CHEBI:57916	C05313	-1	
+s_0217	3-hydroxy-2-isopropyl-4-methoxy-4-oxobutanoate	CHEBI:52960		-1	3-hydroxy-2-isopropyl-4-methoxy-4-oxobutanoate	CHEBI:52960		-1	
+s_0231	3-ketosphinganine	CHEBI:58299	C02934	1	3-ketosphinganine	CHEBI:58299	C02934	1	
+s_0243	3-oxohexacosanoyl-CoA	CHEBI:52977		0	3-oxohexacosanoyl-CoA	CHEBI:52977		0	
+s_0247	3-oxolauroyl-CoA	CHEBI:27868	C05263	0	3-oxolauroyl-CoA	CHEBI:27868	C05263	0	
+s_0258	3-phospho-hydroxypyruvate	CHEBI:18110	C03232	-3	3-phospho-hydroxypyruvate	CHEBI:18110	C03232	-3	
+s_0259	3-phospho-serine	CHEBI:57524	C01005	-2	3-phospho-serine	CHEBI:57524	C01005	-2	
+s_0261	3-phosphoshikimic acid	CHEBI:145989	C03175	-3	3-phosphoshikimic acid	CHEBI:145989	C03175	-3	
+s_0263	4,5-bis(diphospho)-1D-myo-inositol tetrakisphosphate	CHEBI:53066		0	4,5-bis(diphospho)-1D-myo-inositol tetrakisphosphate	CHEBI:53066		0	
+s_0267	4-amino-2-methyl-5-diphosphomethylpyrimidine	CHEBI:57841	C04752	-3	4-amino-2-methyl-5-diphosphomethylpyrimidine	CHEBI:57841	C04752	-3	
+s_0268	4-amino-2-methyl-5-phosphomethylpyrimidine	CHEBI:58354	C04556	-2	4-amino-2-methyl-5-phosphomethylpyrimidine	CHEBI:58354	C04556	-2	
+s_0279	4-diphospho-1D-myo-inositol pentakisphosphate	CHEBI:53064		0	4-diphospho-1D-myo-inositol pentakisphosphate	CHEBI:53064		0	
+s_0281	4-guanidinobutanoic acid	CHEBI:15728	C01035	0	4-guanidinobutanoic acid	CHEBI:15728	C01035	0	
 s_0297	4beta-methylzymosterol-4alpha-carboxylic acid	CHEBI:50591		0	4beta-methylzymosterol-4alpha-carboxylic acid	CHEBI:50591	C15808	0	New keggid
-s_1583	tRNA(Arg)	CHEBI:29171		0	tRNA(Arg)	CHEBI:29171	C01636	0	New keggid
-s_1584	tRNA(Arg)	CHEBI:29171		0	tRNA(Arg)	CHEBI:29171	C01636	0	New keggid
-s_1585	tRNA(Asn)	CHEBI:29172		0	tRNA(Asn)	CHEBI:29172	C01637	0	New keggid
-s_1586	tRNA(Asn)	CHEBI:29172		0	tRNA(Asn)	CHEBI:29172	C01637	0	New keggid
-s_1587	tRNA(Asp)	CHEBI:29186		0	tRNA(Asp)	CHEBI:29186	C01638	0	New keggid
-s_1588	tRNA(Asp)	CHEBI:29186		0	tRNA(Asp)	CHEBI:29186	C01638	0	New keggid
-s_1591	tRNA(Glu)	CHEBI:29175		0	tRNA(Glu)	CHEBI:29175	C01641	0	New keggid
-s_1592	tRNA(Glu)	CHEBI:29175		0	tRNA(Glu)	CHEBI:29175	C01641	0	New keggid
-s_1594	tRNA(His)	CHEBI:29178		0	tRNA(His)	CHEBI:29178	C01643	0	New keggid
-s_1595	tRNA(His)	CHEBI:29178		0	tRNA(His)	CHEBI:29178	C01643	0	New keggid
-s_1596	tRNA(Ile)	CHEBI:29174		0	tRNA(Ile)	CHEBI:29174	C01644	0	New keggid
-s_1597	tRNA(Ile)	CHEBI:29174		0	tRNA(Ile)	CHEBI:29174	C01644	0	New keggid
-s_1598	tRNA(Leu)	CHEBI:29169		0	tRNA(Leu)	CHEBI:29169	C01645	0	New keggid
-s_1599	tRNA(Leu)	CHEBI:29169		0	tRNA(Leu)	CHEBI:29169	C01645	0	New keggid
-s_1600	tRNA(Lys)	CHEBI:29185		0	tRNA(Lys)	CHEBI:29185	C01646	0	New keggid
-s_1601	tRNA(Lys)	CHEBI:29185		0	tRNA(Lys)	CHEBI:29185	C01646	0	New keggid
-s_1602	tRNA(Met)	CHEBI:29173		0	tRNA(Met)	CHEBI:29173	C01647	0	New keggid
-s_1603	tRNA(Met)	CHEBI:29173		0	tRNA(Met)	CHEBI:29173	C01647	0	New keggid
-s_1604	tRNA(Phe)	CHEBI:29184		0	tRNA(Phe)	CHEBI:29184	C01648	0	New keggid
-s_1605	tRNA(Phe)	CHEBI:29184		0	tRNA(Phe)	CHEBI:29184	C01648	0	New keggid
-s_1608	tRNA(Thr)	CHEBI:29180		0	tRNA(Thr)	CHEBI:29180	C01651	0	New keggid
-s_1609	tRNA(Thr)	CHEBI:29180		0	tRNA(Thr)	CHEBI:29180	C01651	0	New keggid
-s_1610	tRNA(Trp)	CHEBI:29181		0	tRNA(Trp)	CHEBI:29181	C01652	0	New keggid
-s_1611	tRNA(Trp)	CHEBI:29181		0	tRNA(Trp)	CHEBI:29181	C01652	0	New keggid
-s_1612	tRNA(Tyr)	CHEBI:29182		0	tRNA(Tyr)	CHEBI:29182	C00787	0	New keggid
-s_1613	tRNA(Tyr)	CHEBI:29182		0	tRNA(Tyr)	CHEBI:29182	C00787	0	New keggid
-s_1614	tRNA(Val)	CHEBI:29183		0	tRNA(Val)	CHEBI:29183	C01653	0	New keggid
-s_1615	tRNA(Val)	CHEBI:29183		0	tRNA(Val)	CHEBI:29183	C01653	0	New keggid
+s_0301	5'-phosphoribosyl-N-formylglycineamide	CHEBI:58426	C04376	-2	5'-phosphoribosyl-N-formylglycineamide	CHEBI:58426	C04376	-2	
+s_0302	5'-phosphoribosyl-N-formylglycineamidine	CHEBI:58478	C04640	-1	5'-phosphoribosyl-N-formylglycineamidine	CHEBI:58478	C04640	-1	
+s_0303	5'-S-methyl-5'-thioadenosine	CHEBI:17509	C00170	0	5'-S-methyl-5'-thioadenosine	CHEBI:17509	C00170	0	
+s_0304	5,10-methenyl-THF	CHEBI:57455	C00445	-1	5,10-methenyl-THF	CHEBI:57455	C00445	-1	
+s_0308	5,6,7,8-tetrahydrofolyl-L-glutamic acid	CHEBI:27650	C09332	0	5,6,7,8-tetrahydrofolyl-L-glutamic acid	CHEBI:27650	C09332	0	
+s_0309	5,6-bis(diphospho)-1D-myo-inositol tetrakisphosphate	CHEBI:52965		0	5,6-bis(diphospho)-1D-myo-inositol tetrakisphosphate	CHEBI:52965		0	
+s_0311	5-(methylsulfanyl)-2,3-dioxopentyl phosphate	CHEBI:58828	C15650	-2	5-(methylsulfanyl)-2,3-dioxopentyl phosphate	CHEBI:58828	C15650	-2	
+s_0312	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	CHEBI:58525	C04916	-4	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	CHEBI:58525	C04916	-4	
+s_0313	5-amino-6-(5-phosphoribitylamino)uracil	CHEBI:58421	C04454	-2	5-amino-6-(5-phosphoribitylamino)uracil	CHEBI:58421	C04454	-2	
+s_0318	5-diphospho-1D-myo-inositol pentakisphosphate	CHEBI:58628	C11526	-13	5-diphospho-1D-myo-inositol pentakisphosphate	CHEBI:58628	C11526	-13	
+s_0319	5-formyltetrahydrofolic acid	CHEBI:57457	C03479	-2	5-formyltetrahydrofolic acid	CHEBI:57457	C03479	-2	
+s_0323	5-methyltetrahydropteroyltri-L-glutamic acid	CHEBI:58207	C04489	-4	5-methyltetrahydropteroyltri-L-glutamic acid	CHEBI:58207	C04489	-4	
+s_0324	5-O-(1-carboxyvinyl)-3-phosphoshikimic acid	CHEBI:57701	C01269	-4	5-O-(1-carboxyvinyl)-3-phosphoshikimic acid	CHEBI:57701	C01269	-4	
+s_0325	5-phospho-ribosyl-glycineamide	CHEBI:58457	C03838	-1	5-phospho-ribosyl-glycineamide	CHEBI:58457	C03838	-1	
+s_0326	5-phosphoribosyl-ATP	CHEBI:58424	C02739	-6	5-phosphoribosyl-ATP	CHEBI:58424	C02739	-6	
+s_0328	6,7-dimethyl-8-(1-D-ribityl)lumazine	CHEBI:58201	C04332	-1	6,7-dimethyl-8-(1-D-ribityl)lumazine	CHEBI:58201	C04332	-1	
+s_0330	6-(alpha-D-glucosaminyl)-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53055		0	6-(alpha-D-glucosaminyl)-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53055		0	
+s_0332	6-[6-(2-aminoethylphosphoryl)-alpha-mannosyl-(1->6)-2-(2-aminoethylphosphoryl)-alpha-mannosyl-(1->6)-alpha-2-(2-aminoethylphosphoryl)mannosyl-(1->4)-alpha-glucosaminyl]-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53060		0	6-[6-(2-aminoethylphosphoryl)-alpha-mannosyl-(1->6)-2-(2-aminoethylphosphoryl)-alpha-mannosyl-(1->6)-alpha-2-(2-aminoethylphosphoryl)mannosyl-(1->4)-alpha-glucosaminyl]-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53060		0	
+s_0333	6-diphospho-1D-myo-inositol pentakisphosphate	CHEBI:53065		0	6-diphospho-1D-myo-inositol pentakisphosphate	CHEBI:53065		0	
+s_0334	6-O-[alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl]-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53056		0	6-O-[alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl]-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53056		0	
+s_0335	6-O-phosphono-D-glucono-1,5-lactone	CHEBI:57955	C01236	-2	6-O-phosphono-D-glucono-1,5-lactone	CHEBI:57955	C01236	-2	
+s_0337	6-O-{2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53057		0	6-O-{2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53057		0	
+s_0338	6-O-{alpha-D-mannosyl-(1->2)-alpha-D-mannosyl-(1->6)-2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53059		0	6-O-{alpha-D-mannosyl-(1->2)-alpha-D-mannosyl-(1->6)-2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53059		0	
+s_0339	6-O-{alpha-D-mannosyl-(1->6)-2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53058		0	6-O-{alpha-D-mannosyl-(1->6)-2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol	CHEBI:53058		0	
+s_0349	7-phospho-2-dehydro-3-deoxy-D-arabino-heptonic acid	CHEBI:58394	C04691	-3	7-phospho-2-dehydro-3-deoxy-D-arabino-heptonic acid	CHEBI:58394	C04691	-3	
+s_0357	9H-xanthine	CHEBI:17712	C00385	0	9H-xanthine	CHEBI:17712	C00385	0	
+s_0372	acetyl-ACP	CHEBI:17093	C03939	0	acetyl-ACP	CHEBI:17093	C03939	0	
+s_0390	adenosine 3',5'-bismonophosphate	CHEBI:58343	C00054	-4	adenosine 3',5'-bismonophosphate	CHEBI:58343	C00054	-4	
+s_0393	adenylo-succinate	CHEBI:57567	C03794	-4	adenylo-succinate	CHEBI:57567	C03794	-4	
+s_0404	Ala-tRNA(Ala)	CHEBI:17732	C00886	0	Ala-tRNA(Ala)	CHEBI:17732	C00886	0	
+s_0409	alpha,alpha-trehalose 6-phosphate	CHEBI:58429	C00689	-2	alpha,alpha-trehalose 6-phosphate	CHEBI:58429	C00689	-2	
+s_0412	alpha-D-glucosamine 6-phosphate	CHEBI:15873	C00352	0	alpha-D-glucosamine 6-phosphate	CHEBI:15873	C00352	0	
+s_0414	alpha-D-mannosyl-beta-D-mannosyldiacetylchitobiosyldiphosphodolichol	CHEBI:28067	C05861	0	alpha-D-mannosyl-beta-D-mannosyldiacetylchitobiosyldiphosphodolichol	CHEBI:28067	C05861	0	
+s_0419	ammonium	CHEBI:28938	C01342	1	ammonium	CHEBI:28938	C01342	1	
+s_0428	Arg-tRNA(Arg)	CHEBI:18366	C02163	0	Arg-tRNA(Arg)	CHEBI:18366	C02163	0	
+s_0432	Asp-tRNA(Asp)	CHEBI:29158	C02984	0	Asp-tRNA(Asp)	CHEBI:29158	C02984	0	
+s_0450	biomass			0	biomass			0	
+s_0454	but-1-ene-1,2,4-tricarboxylic acid	CHEBI:58174	C04002	-3	but-1-ene-1,2,4-tricarboxylic acid	CHEBI:58174	C04002	-3	
+s_0465	carboxyacetyl-ACP	CHEBI:17330	C01209	0	carboxyacetyl-ACP	CHEBI:17330	C01209	0	
+s_0475	ceramide-1 (C24)	CHEBI:52961		0	ceramide-1 (C24)	CHEBI:52961		0	
+s_0478	ceramide-1 (C26)	CHEBI:52962		0	ceramide-1 (C26)	CHEBI:52962		0	
+s_0481	ceramide-2 (C24)	CHEBI:52979		0	ceramide-2 (C24)	CHEBI:52979		0	
+s_0484	ceramide-2 (C26)	CHEBI:52980		0	ceramide-2 (C26)	CHEBI:52980		0	
+s_0487	ceramide-2' (C24)	CHEBI:52371		0	ceramide-2' (C24)	CHEBI:52371		0	
+s_0490	ceramide-2' (C26)	CHEBI:52372		0	ceramide-2' (C26)	CHEBI:52372		0	
+s_0493	ceramide-3 (C24)	CHEBI:52373		0	ceramide-3 (C24)	CHEBI:52373		0	
+s_0496	ceramide-3 (C26)	CHEBI:52374		0	ceramide-3 (C26)	CHEBI:52374		0	
+s_0499	ceramide-4 (C24)	CHEBI:60256		0	ceramide-4 (C24)	CHEBI:60256		0	
+s_0502	ceramide-4 (C26)	CHEBI:60384		0	ceramide-4 (C26)	CHEBI:60384		0	
+s_0507	cerotic acid	CHEBI:31013		-1	cerotic acid	CHEBI:31013		-1	
+s_0535	complex sphingolipid	CHEBI:26739		0	complex sphingolipid	CHEBI:26739		0	
+s_0542	Cys-tRNA(Cys)	CHEBI:29152	C03125	0	Cys-tRNA(Cys)	CHEBI:29152	C03125	0	
+s_0591	deamido-NAD(+)	CHEBI:18304	C00857	1	deamido-NAD(+)	CHEBI:18304	C00857	1	
+s_0606	decaprenyl diphosphate	CHEBI:53043	C17432	0	decaprenyl diphosphate	CHEBI:53043	C17432	0	
+s_0608	Delta(6)-trans,Delta(8)-cis-leukotriene B4	CHEBI:53027		0	Delta(6)-trans,Delta(8)-cis-leukotriene B4	CHEBI:53027		0	
+s_0640	docosaprenyl diphosphate	CHEBI:53031		0	docosaprenyl diphosphate	CHEBI:53031		0	
+s_0641	dodecaprenyl diphosphate	CHEBI:53041		0	dodecaprenyl diphosphate	CHEBI:53041		0	
+s_0670	ergosterol 3-beta-D-glucoside	CHEBI:52973		0	ergosterol 3-beta-D-glucoside	CHEBI:52973		0	
+s_0672	ergosterol ester	CHEBI:52320		0	ergosterol ester	CHEBI:52320		0	
+s_0677	erythro-4-hydroxy-L-glutamic acid	CHEBI:21285	C05947	0	erythro-4-hydroxy-L-glutamic acid	CHEBI:21285	C05947	0	
+s_0712	ferroheme b	CHEBI:60344	C00032	-2	ferroheme b	CHEBI:60344	C00032	-2	
+s_0713	fMet-tRNA(fMet)	CHEBI:17119	C03294	0	fMet-tRNA(fMet)	CHEBI:17119	C03294	0	
+s_0734	gamma-aminobutyrate	CHEBI:16865	C00334	0	gamma-aminobutyrate	CHEBI:16865	C00334	0	
+s_0748	Glu-tRNA(Glu)	CHEBI:29157	C02987	0	Glu-tRNA(Glu)	CHEBI:29157	C02987	0	
+s_0757	Gly-tRNA(Gly)	CHEBI:29156	C02412	0	Gly-tRNA(Gly)	CHEBI:29156	C02412	0	
+s_0767	glycerol 3-phosphate	CHEBI:57597	C00093	-2	glycerol 3-phosphate	CHEBI:57597	C00093	-2	
+s_0813	henicosaprenyl diphosphate	CHEBI:53032		0	henicosaprenyl diphosphate	CHEBI:53032		0	
+s_0814	heptadecaprenyl diphosphate	CHEBI:53036		0	heptadecaprenyl diphosphate	CHEBI:53036		0	
+s_0815	heptaprenyl diphosphate	CHEBI:53046	C04216	0	heptaprenyl diphosphate	CHEBI:53046	C04216	0	
+s_0816	hexacosanoyl-CoA	CHEBI:52966		0	hexacosanoyl-CoA	CHEBI:52966		0	
+s_0823	hexadec-2-enoyl-CoA	CHEBI:52381	C05272	0	hexadec-2-enoyl-CoA	CHEBI:52381	C05272	0	
+s_0829	hexadecaprenyl diphosphate	CHEBI:53037		0	hexadecaprenyl diphosphate	CHEBI:53037		0	
+s_0830	hexaprenyl diphosphate	CHEBI:53047	C01230	0	hexaprenyl diphosphate	CHEBI:53047	C01230	0	
+s_0832	His-tRNA(His)	CHEBI:29155	C02988	0	His-tRNA(His)	CHEBI:29155	C02988	0	
+s_0845	icosaprenyl diphosphate	CHEBI:53033		0	icosaprenyl diphosphate	CHEBI:53033		0	
+s_0847	Ile-tRNA(Ile)	CHEBI:29160	C03127	0	Ile-tRNA(Ile)	CHEBI:29160	C03127	0	
+s_0850	indol-3-ylacetaldehyde	CHEBI:18086	C00637	0	indol-3-ylacetaldehyde	CHEBI:18086	C00637	0	
+s_0858	inositol phosphomannosylinositol phosphoceramide	CHEBI:62682		0	inositol phosphomannosylinositol phosphoceramide	CHEBI:62682		0	
+s_0861	inositol phosphomannosylinositol phosphoceramide A (C24)	CHEBI:60439		0	inositol phosphomannosylinositol phosphoceramide A (C24)	CHEBI:60439		0	
+s_0864	inositol phosphomannosylinositol phosphoceramide A (C26)	CHEBI:62715		0	inositol phosphomannosylinositol phosphoceramide A (C26)	CHEBI:62715		0	
+s_0867	inositol phosphomannosylinositol phosphoceramide B (C24)	CHEBI:60443		0	inositol phosphomannosylinositol phosphoceramide B (C24)	CHEBI:60443		0	
+s_0870	inositol phosphomannosylinositol phosphoceramide B (C26)	CHEBI:62719		0	inositol phosphomannosylinositol phosphoceramide B (C26)	CHEBI:62719		0	
+s_0873	inositol phosphomannosylinositol phosphoceramide B' (C24)	CHEBI:60441		0	inositol phosphomannosylinositol phosphoceramide B' (C24)	CHEBI:60441		0	
+s_0876	inositol phosphomannosylinositol phosphoceramide B' (C26)	CHEBI:62717		0	inositol phosphomannosylinositol phosphoceramide B' (C26)	CHEBI:62717		0	
+s_0879	inositol phosphomannosylinositol phosphoceramide C (C24)	CHEBI:60445		0	inositol phosphomannosylinositol phosphoceramide C (C24)	CHEBI:60445		0	
+s_0882	inositol phosphomannosylinositol phosphoceramide C (C26)	CHEBI:53005		0	inositol phosphomannosylinositol phosphoceramide C (C26)	CHEBI:53005		0	
+s_0885	inositol phosphomannosylinositol phosphoceramide D (C24)	CHEBI:60446		0	inositol phosphomannosylinositol phosphoceramide D (C24)	CHEBI:60446		0	
+s_0888	inositol phosphomannosylinositol phosphoceramide D (C26)	CHEBI:62684		0	inositol phosphomannosylinositol phosphoceramide D (C26)	CHEBI:62684		0	
+s_0891	inositol-P-ceramide	CHEBI:60245		0	inositol-P-ceramide	CHEBI:60245		0	
+s_0894	inositol-P-ceramide A (C24)	CHEBI:60402		0	inositol-P-ceramide A (C24)	CHEBI:60402		0	
+s_0897	inositol-P-ceramide A (C26)	CHEBI:60405		0	inositol-P-ceramide A (C26)	CHEBI:60405		0	
+s_0900	inositol-P-ceramide B (C24)	CHEBI:60410		0	inositol-P-ceramide B (C24)	CHEBI:60410		0	
+s_0903	inositol-P-ceramide B (C26)	CHEBI:60412		0	inositol-P-ceramide B (C26)	CHEBI:60412		0	
+s_0906	inositol-P-ceramide B' (C24)	CHEBI:60406		0	inositol-P-ceramide B' (C24)	CHEBI:60406		0	
+s_0909	inositol-P-ceramide B' (C26)	CHEBI:60409		0	inositol-P-ceramide B' (C26)	CHEBI:60409		0	
+s_0912	inositol-P-ceramide C (C24)	CHEBI:60413		0	inositol-P-ceramide C (C24)	CHEBI:60413		0	
+s_0915	inositol-P-ceramide C (C26)	CHEBI:53004		0	inositol-P-ceramide C (C26)	CHEBI:53004		0	
+s_0918	inositol-P-ceramide D (C24)	CHEBI:60414		0	inositol-P-ceramide D (C24)	CHEBI:60414		0	
+s_0921	inositol-P-ceramide D (C26)	CHEBI:60415		0	inositol-P-ceramide D (C26)	CHEBI:60415		0	
+s_0927	isoamyl acetate	CHEBI:31725	C12296	0	isoamyl acetate	CHEBI:31725	C12296	0	
+s_0929	isoamylol	CHEBI:15837	C07328	0	isoamylol	CHEBI:15837	C07328	0	
+s_0932	isobutanol	CHEBI:46645	C14710	0	isobutanol	CHEBI:46645	C14710	0	
+s_0935	isobutyl acetate	CHEBI:50569		0	isobutyl acetate	CHEBI:50569		0	
+s_0937	isobutyraldehyde	CHEBI:48943		0	isobutyraldehyde	CHEBI:48943		0	
+s_0954	L-4-hydroxyglutamic semialdehyde	CHEBI:27809	C05938	0	L-4-hydroxyglutamic semialdehyde	CHEBI:27809	C05938	0	
+s_0960	L-alpha-formylglycine	CHEBI:58671	C11822	-1	L-alpha-formylglycine	CHEBI:58671	C11822	-1	
+s_0986	L-gamma-glutamyl phosphate	CHEBI:58274	C03287	-2	L-gamma-glutamyl phosphate	CHEBI:58274	C03287	-2	
+s_0987	L-gamma-glutamyl-L-alanine	CHEBI:50619	C03738	0	L-gamma-glutamyl-L-alanine	CHEBI:50619	C03738	0	
+s_0988	L-gamma-glutamyl-L-cysteine	CHEBI:58173	C00669	-1	L-gamma-glutamyl-L-cysteine	CHEBI:58173	C00669	-1	
+s_0997	L-glutamic 5-semialdehyde	CHEBI:17232	C01165	0	L-glutamic 5-semialdehyde	CHEBI:17232	C01165	0	
+s_1003	L-glycine	CHEBI:15428	C00037	0	L-glycine	CHEBI:15428	C00037	0	
+s_1065	laurate	CHEBI:18262	C02679	-1	laurate	CHEBI:18262	C02679	-1	
+s_1077	Leu-tRNA(Leu)	CHEBI:16624	C02047	0	Leu-tRNA(Leu)	CHEBI:16624	C02047	0	
+s_1099	Lys-tRNA(Lys)	CHEBI:16047	C01931	0	Lys-tRNA(Lys)	CHEBI:16047	C01931	0	
+s_1109	mannose-(1D-myo-inositol 1-phosphate)2	CHEBI:60449		0	mannose-(1D-myo-inositol 1-phosphate)2	CHEBI:60449		0	
+s_1111	mannose-1D-myo-inositol 1-phosphate	CHEBI:60448		0	mannose-1D-myo-inositol 1-phosphate	CHEBI:60448		0	
+s_1113	mannosylinositol phosphorylceramide	CHEBI:25168		0	mannosylinositol phosphorylceramide	CHEBI:25168		0	
+s_1116	mannosylinositol phosphorylceramide A (C24)	CHEBI:60416		0	mannosylinositol phosphorylceramide A (C24)	CHEBI:60416		0	
+s_1119	mannosylinositol phosphorylceramide A (C26)	CHEBI:62706		0	mannosylinositol phosphorylceramide A (C26)	CHEBI:62706		0	
+s_1122	mannosylinositol phosphorylceramide B (C24)	CHEBI:60420		0	mannosylinositol phosphorylceramide B (C24)	CHEBI:60420		0	
+s_1125	mannosylinositol phosphorylceramide B (C26)	CHEBI:62710		0	mannosylinositol phosphorylceramide B (C26)	CHEBI:62710		0	
+s_1128	mannosylinositol phosphorylceramide B' (C24)	CHEBI:60418		0	mannosylinositol phosphorylceramide B' (C24)	CHEBI:60418		0	
+s_1131	mannosylinositol phosphorylceramide B' (C26)	CHEBI:62708		0	mannosylinositol phosphorylceramide B' (C26)	CHEBI:62708		0	
+s_1134	mannosylinositol phosphorylceramide C (C24)	CHEBI:60422		0	mannosylinositol phosphorylceramide C (C24)	CHEBI:60422		0	
+s_1137	mannosylinositol phosphorylceramide C (C26)	CHEBI:62712		0	mannosylinositol phosphorylceramide C (C26)	CHEBI:62712		0	
+s_1140	mannosylinositol phosphorylceramide D (C24)	CHEBI:60435		0	mannosylinositol phosphorylceramide D (C24)	CHEBI:60435		0	
+s_1143	mannosylinositol phosphorylceramide D (C26)	CHEBI:62683		0	mannosylinositol phosphorylceramide D (C26)	CHEBI:62683		0	
+s_1148	Met-tRNA(Met)	CHEBI:16635	C02430	0	Met-tRNA(Met)	CHEBI:16635	C02430	0	
+s_1156	myo-inositol 1,3,4,5,6-pentakisphosphate	CHEBI:57733	C01284	-10	myo-inositol 1,3,4,5,6-pentakisphosphate	CHEBI:57733	C01284	-10	
+s_1161	myristate	CHEBI:30807	C06424	-1	myristate	CHEBI:30807	C06424	-1	
+s_1180	N(1)-acetylspermidine	CHEBI:58324	C00612	2	N(1)-acetylspermidine	CHEBI:58324	C00612	2	
+s_1181	N(1)-acetylspermine	CHEBI:58101	C02567	3	N(1)-acetylspermine	CHEBI:58101	C02567	3	
+s_1182	N(2)-acetyl-L-ornithine	CHEBI:16543	C00437	0	N(2)-acetyl-L-ornithine	CHEBI:16543	C00437	0	
+s_1183	N(pros)-methyl-L-histidine	CHEBI:27596	C01152	0	N(pros)-methyl-L-histidine	CHEBI:27596	C01152	0	
+s_1185	N,N'-diformyldityrosine	CHEBI:50611		0	N,N'-diformyldityrosine	CHEBI:50611		0	
+s_1188	N-[(R)-4-phosphonopantothenoyl]-L-cysteine	CHEBI:59458	C04352	-3	N-[(R)-4-phosphonopantothenoyl]-L-cysteine	CHEBI:59458	C04352	-3	
+s_1191	N-acetyl-L-gamma-glutamyl phosphate	CHEBI:57936	C04133	-3	N-acetyl-L-gamma-glutamyl phosphate	CHEBI:57936	C04133	-3	
+s_1196	N-formyl-L-tyrosine	CHEBI:50603		0	N-formyl-L-tyrosine	CHEBI:50603		0	
+s_1207	NADP(+)	CHEBI:58349	C00006	-3	NADP(+)	CHEBI:58349	C00006	-3	
+s_1218	nicotinamide ribose	CHEBI:15927	C03150	1	nicotinamide ribose	CHEBI:15927	C03150	1	
+s_1222	nicotinic acid D-ribonucleotide	CHEBI:57502	C01185	-2	nicotinic acid D-ribonucleotide	CHEBI:57502	C01185	-2	
+s_1229	nonadecaprenyl diphosphate	CHEBI:53034		0	nonadecaprenyl diphosphate	CHEBI:53034		0	
+s_1230	nonaprenyl 4-hydroxybenzoate	CHEBI:18162	C03885	0	nonaprenyl 4-hydroxybenzoate	CHEBI:18162	C03885	0	
+s_1231	nonaprenyl diphosphate	CHEBI:53044	C04145	0	nonaprenyl diphosphate	CHEBI:53044	C04145	0	
+s_1246	octadecaprenyl diphosphate	CHEBI:53035		0	octadecaprenyl diphosphate	CHEBI:53035		0	
+s_1248	octanoate	CHEBI:25646	C06423	-1	octanoate	CHEBI:25646	C06423	-1	
+s_1254	octanoyl-ACP	CHEBI:7725	C05752	0	octanoyl-ACP	CHEBI:7725	C05752	0	
+s_1259	octaprenyl diphosphate	CHEBI:53045	C04146	0	octaprenyl diphosphate	CHEBI:53045	C04146	0	
+s_1270	orotidine 5'-(dihydrogen phosphate)	CHEBI:57538	C01103	-3	orotidine 5'-(dihydrogen phosphate)	CHEBI:57538	C01103	-3	
+s_1282	P(1),P(4)-bis(5'-adenosyl) tetraphosphate	CHEBI:58141	C01260	-4	P(1),P(4)-bis(5'-adenosyl) tetraphosphate	CHEBI:58141	C01260	-4	
+s_1283	P(1),P(4)-bis(5'-guanosyl) tetraphosphate	CHEBI:57553	C01261	-4	P(1),P(4)-bis(5'-guanosyl) tetraphosphate	CHEBI:57553	C01261	-4	
+s_1284	P1-(5'-adenosyl),P4-(5'-guanosyl) tetraphosphate	CHEBI:52968		0	P1-(5'-adenosyl),P4-(5'-guanosyl) tetraphosphate	CHEBI:52968		0	
+s_1293	palmitoleate	CHEBI:32372	C08362	-1	palmitoleate	CHEBI:32372	C08362	-1	
+s_1310	pentadecaprenyl diphosphate	CHEBI:53038		0	pentadecaprenyl diphosphate	CHEBI:53038		0	
+s_1311	pentaprenyl diphosphate	CHEBI:53048	C04217	0	pentaprenyl diphosphate	CHEBI:53048	C04217	0	
+s_1314	Phe-tRNA(Phe)	CHEBI:29153	C03511	0	Phe-tRNA(Phe)	CHEBI:29153	C03511	0	
+s_1364	phosphoribosyl-carboxy-aminoimidazole	CHEBI:58564	C04751	-3	phosphoribosyl-carboxy-aminoimidazole	CHEBI:58564	C04751	-3	
+s_1365	phosphoribosyl-formamido-carboxamide	CHEBI:58467	C04734	-2	phosphoribosyl-formamido-carboxamide	CHEBI:58467	C04734	-2	
+s_1367	phytosphingosine 1-phosphate	CHEBI:46970		0	phytosphingosine 1-phosphate	CHEBI:46970		0	
+s_1371	polysulphur	CHEBI:17909	C00087	0	polysulphur	CHEBI:17909	C00087	0	
+s_1373	potassium	CHEBI:26216	C00238	0	potassium	CHEBI:26216	C00238	0	
+s_1375	precorrin-2	CHEBI:58827	C02463	-7	precorrin-2	CHEBI:58827	C02463	-7	
+s_1378	preuroporphyrinogen	CHEBI:57845	C01024	-8	preuroporphyrinogen	CHEBI:57845	C01024	-8	
+s_1379	Pro-tRNA(Pro)	CHEBI:29154	C02702	0	Pro-tRNA(Pro)	CHEBI:29154	C02702	0	
+s_1384	protoporphyrinogen	CHEBI:57307	C01079	-2	protoporphyrinogen	CHEBI:57307	C01079	-2	
+s_1408	ribose-5-phosphate	CHEBI:18189	C03736	0	ribose-5-phosphate	CHEBI:18189	C03736	0	
+s_1409	S(8)-aminomethyldihydrolipoamide	CHEBI:50622		0	S(8)-aminomethyldihydrolipoamide	CHEBI:50622		0	
+s_1410	S(8)-aminomethyldihydrolipoylprotein	CHEBI:16882	C01242	0	S(8)-aminomethyldihydrolipoylprotein	CHEBI:16882	C01242	0	
+s_1411	S(8)-succinyldihydrolipoamide	CHEBI:17432	C01169	0	S(8)-succinyldihydrolipoamide	CHEBI:17432	C01169	0	
+s_1428	Ser-tRNA(Ser)	CHEBI:29162	C02553	0	Ser-tRNA(Ser)	CHEBI:29162	C02553	0	
+s_1437	sodium	CHEBI:26708	C01330	0	sodium	CHEBI:26708	C01330	0	
+s_1467	sulphate	CHEBI:16189	C00059	-2	sulphate	CHEBI:16189	C00059	-2	
+s_1469	sulphite	CHEBI:17137	C11481	-1	sulphite	CHEBI:17137	C11481	-1	
+s_1475	TDP	CHEBI:45931	C00068	0	TDP	CHEBI:45931	C00068	0	
+s_1483	tetradecaprenyl diphosphate	CHEBI:53039		0	tetradecaprenyl diphosphate	CHEBI:53039		0	
+s_1486	tetrahydropteroyltri-L-glutamic acid	CHEBI:58140	C04144	-4	tetrahydropteroyltri-L-glutamic acid	CHEBI:58140	C04144	-4	
+s_1491	Thr-tRNA(Thr)	CHEBI:29163	C02992	0	Thr-tRNA(Thr)	CHEBI:29163	C02992	0	
+s_1510	trans-dodec-2-enoyl-CoA	CHEBI:57330	C03221	-4	trans-dodec-2-enoyl-CoA	CHEBI:57330	C03221	-4	
+s_1513	trans-hexacos-2-enoyl-CoA	CHEBI:52975		0	trans-hexacos-2-enoyl-CoA	CHEBI:52975		0	
+s_1523	tridecaprenyl diphosphate	CHEBI:53040		0	tridecaprenyl diphosphate	CHEBI:53040		0	
+s_1527	Trp-tRNA(Trp)	CHEBI:29159	C03512	0	Trp-tRNA(Trp)	CHEBI:29159	C03512	0	
+s_1533	Tyr-tRNA(Tyr)	CHEBI:29161	C02839	0	Tyr-tRNA(Tyr)	CHEBI:29161	C02839	0	
+s_1535	ubiquinol-6	CHEBI:52970	C00390	0	ubiquinol-6	CHEBI:52970	C00390	0	
+s_1554	urea-1-carboxylic acid	CHEBI:15832	C01010	-1	urea-1-carboxylic acid	CHEBI:15832	C01010	-1	
+s_1561	Val-tRNA(Val)	CHEBI:29164	C02554	0	Val-tRNA(Val)	CHEBI:29164	C02554	0	
+s_1565	xanthosine-5-phosphate	CHEBI:57464	C00655	-2	xanthosine-5-phosphate	CHEBI:57464	C00655	-2	
+s_1576	zymosterol intermediate 1a	CHEBI:52388		0	zymosterol intermediate 1a	CHEBI:52388		0	
+s_1577	zymosterol intermediate 1b	CHEBI:52615		0	zymosterol intermediate 1b	CHEBI:52615		0	
+s_1578	zymosterol intermediate 1c	CHEBI:52389		0	zymosterol intermediate 1c	CHEBI:52389		0	
+s_1579	zymosterol intermediate 2	CHEBI:52386		0	zymosterol intermediate 2	CHEBI:52386		0	
+s_1582	tRNA(Ala), cytoplasmic	CHEBI:29170	C01635	0	tRNA(Ala), cytoplasmic	CHEBI:29170	C01635	0	
+s_1583	tRNA(Arg), cytoplasmic	CHEBI:29171		0	tRNA(Arg), cytoplasmic	CHEBI:29171	C01636	0	New keggid
+s_1584	tRNA(Arg), mitchondrial	CHEBI:29171		0	tRNA(Arg), mitchondrial	CHEBI:29171	C01636	0	New keggid
+s_1585	tRNA(Asn), cytoplasmic	CHEBI:29172		0	tRNA(Asn), cytoplasmic	CHEBI:29172	C01637	0	New keggid
+s_1586	tRNA(Asn), mitchondrial	CHEBI:29172		0	tRNA(Asn), mitchondrial	CHEBI:29172	C01637	0	New keggid
+s_1587	tRNA(Asp), cytoplasmic	CHEBI:29186		0	tRNA(Asp), cytoplasmic	CHEBI:29186	C01638	0	New keggid
+s_1588	tRNA(Asp), mitchondrial	CHEBI:29186		0	tRNA(Asp), mitchondrial	CHEBI:29186	C01638	0	New keggid
+s_1589	tRNA(Cys), cytoplasmic	CHEBI:29167	C01639	0	tRNA(Cys), cytoplasmic	CHEBI:29167	C01639	0	
+s_1590	tRNA(Gln), cytoplasmic	CHEBI:29168	C01640	0	tRNA(Gln), cytoplasmic	CHEBI:29168	C01640	0	
+s_1591	tRNA(Glu), cytoplasmic	CHEBI:29175		0	tRNA(Glu), cytoplasmic	CHEBI:29175	C01641	0	New keggid
+s_1592	tRNA(Glu), mitchondrial	CHEBI:29175		0	tRNA(Glu), mitchondrial	CHEBI:29175	C01641	0	New keggid
+s_1593	tRNA(Gly), cytoplasmic	CHEBI:29176	C01642	0	tRNA(Gly), cytoplasmic	CHEBI:29176	C01642	0	
+s_1594	tRNA(His), cytoplasmic	CHEBI:29178		0	tRNA(His), cytoplasmic	CHEBI:29178	C01643	0	New keggid
+s_1595	tRNA(His), mitchondrial	CHEBI:29178		0	tRNA(His), mitchondrial	CHEBI:29178	C01643	0	New keggid
+s_1596	tRNA(Ile), cytoplasmic	CHEBI:29174		0	tRNA(Ile), cytoplasmic	CHEBI:29174	C01644	0	New keggid
+s_1597	tRNA(Ile), mitchondrial	CHEBI:29174		0	tRNA(Ile), mitchondrial	CHEBI:29174	C01644	0	New keggid
+s_1598	tRNA(Leu), cytoplasmic	CHEBI:29169		0	tRNA(Leu), cytoplasmic	CHEBI:29169	C01645	0	New keggid
+s_1599	tRNA(Leu), mitchondrial	CHEBI:29169		0	tRNA(Leu), mitchondrial	CHEBI:29169	C01645	0	New keggid
+s_1600	tRNA(Lys), cytoplasmic	CHEBI:29185		0	tRNA(Lys), cytoplasmic	CHEBI:29185	C01646	0	New keggid
+s_1601	tRNA(Lys), mitchondrial	CHEBI:29185		0	tRNA(Lys), mitchondrial	CHEBI:29185	C01646	0	New keggid
+s_1602	tRNA(Met), cytoplasmic	CHEBI:29173		0	tRNA(Met), cytoplasmic	CHEBI:29173	C01647	0	New keggid
+s_1603	tRNA(Met), mitchondrial	CHEBI:29173		0	tRNA(Met), mitchondrial	CHEBI:29173	C01647	0	New keggid
+s_1604	tRNA(Phe), cytoplasmic	CHEBI:29184		0	tRNA(Phe), cytoplasmic	CHEBI:29184	C01648	0	New keggid
+s_1605	tRNA(Phe), mitchondrial	CHEBI:29184		0	tRNA(Phe), mitchondrial	CHEBI:29184	C01648	0	New keggid
+s_1606	tRNA(Pro), cytoplasmic	CHEBI:29177	C01649	0	tRNA(Pro), cytoplasmic	CHEBI:29177	C01649	0	
+s_1607	tRNA(Ser), cytoplasmic	CHEBI:29179	C01650	0	tRNA(Ser), cytoplasmic	CHEBI:29179	C01650	0	
+s_1608	tRNA(Thr), cytoplasmic	CHEBI:29180		0	tRNA(Thr), cytoplasmic	CHEBI:29180	C01651	0	New keggid
+s_1609	tRNA(Thr), mitchondrial	CHEBI:29180		0	tRNA(Thr), mitchondrial	CHEBI:29180	C01651	0	New keggid
+s_1610	tRNA(Trp), cytoplasmic	CHEBI:29181		0	tRNA(Trp), cytoplasmic	CHEBI:29181	C01652	0	New keggid
+s_1611	tRNA(Trp), mitchondrial	CHEBI:29181		0	tRNA(Trp), mitchondrial	CHEBI:29181	C01652	0	New keggid
+s_1612	tRNA(Tyr), cytoplasmic	CHEBI:29182		0	tRNA(Tyr), cytoplasmic	CHEBI:29182	C00787	0	New keggid
+s_1613	tRNA(Tyr), mitchondrial	CHEBI:29182		0	tRNA(Tyr), mitchondrial	CHEBI:29182	C00787	0	New keggid
+s_1614	tRNA(Val), cytoplasmic	CHEBI:29183		0	tRNA(Val), cytoplasmic	CHEBI:29183	C01653	0	New keggid
+s_1615	tRNA(Val), mitchondrial	CHEBI:29183		0	tRNA(Val), mitchondrial	CHEBI:29183	C01653	0	New keggid
+s_1616	TRX1	CHEBI:15967	C00342	0	TRX1	CHEBI:15967	C00342	0	
+s_1620	TRX1 disulphide	CHEBI:18191	C00343	0	TRX1 disulphide	CHEBI:18191	C00343	0	
 s_1845	ACP1	CHEBI:37671	C00965	0	ACP1	CHEBI:18359	C00229	0	Wrong chebiID. Wrong full name. should be: holo-[acyl-carrier protein]
 s_2770	acetoacetyl-ACP	CHEBI:36464	C00418	0	acetoacetyl-ACP	CHEBI:2393	C05744	0	wrong cheibID and keggid
 s_2771	butanoyl-ACP	CHEBI:29032	C00864	0	butanoyl-ACP	CHEBI:3247	C05745	0	wrong chebiID and keggid.  Not standard fullname
@@ -167,11 +845,16 @@ s_3039	triglyceride (1-18:0, 2-16:1, 3-18:1)			0	triglyceride (1-18:0, 2-16:1, 3
 s_3040	triglyceride (1-18:0, 2-18:1, 3-18:1)			0	triglyceride (1-18:0, 2-18:1, 3-18:1)	CHEBI:88980		0	new chebiID. chebi has some problem. this is 11z
 s_3041	triglyceride (1-18:1, 2-16:1, 3-18:1)			0	triglyceride (1-18:1, 2-16:1, 3-18:1)	CHEBI:88984		0	new chebiID
 s_3042	triglyceride (1-18:1, 2-18:1, 3-18:1)			0	triglyceride (1-18:1, 2-18:1, 3-18:1)	CHEBI:88970		0	new chebiID. chebi has some problem. this is 11z
+s_3084	CDP-diacylglycerol (1-16:0, 2-16:1)			0	CDP-diacylglycerol (1-16:0, 2-16:1)			0	
 s_3085	CDP-diacylglycerol (1-16:1, 2-16:1)			0	CDP-diacylglycerol (1-16:1, 2-16:1)	CHEBI:104012		0	new chebiID
 s_3086	CDP-diacylglycerol (1-18:0, 2-16:1)			0	CDP-diacylglycerol (1-18:0, 2-16:1)	ECMDB23374		0	new chebiID
+s_3087	CDP-diacylglycerol (1-18:1, 2-16:1)			0	CDP-diacylglycerol (1-18:1, 2-16:1)			0	
 s_3088	CDP-diacylglycerol (1-16:0, 2-18:1)			0	CDP-diacylglycerol (1-16:0, 2-18:1)	CHEBI:34077	C13892	0	new keggid
+s_3089	CDP-diacylglycerol (1-16:1, 2-18:1)			0	CDP-diacylglycerol (1-16:1, 2-18:1)			0	
+s_3090	CDP-diacylglycerol (1-18:0, 2-18:1)			0	CDP-diacylglycerol (1-18:0, 2-18:1)			0	
 s_3091	CDP-diacylglycerol (1-18:1, 2-18:1)			0	CDP-diacylglycerol (1-18:1, 2-18:1)	CHEBI:104362		0	new chebiID. CHEBI:104362 for 1.2-dioctadec-11-enoyl-sn-glycero-3-cytidine 5'-diphosphate CDP-DG(18:1/18:1)
 s_3109	phosphatidyl-L-serine (1-16:0, 2-16:1)			0	phosphatidyl-L-serine (1-16:0, 2-16:1)	CHEBI:89824		0	new chebiID. CHEBI:18303 for  phosphatidyl-L-serine
+s_3110	phosphatidyl-L-serine (1-16:1, 2-16:1)			0	phosphatidyl-L-serine (1-16:1, 2-16:1)			0	
 s_3111	phosphatidyl-L-serine (1-18:0, 2-16:1)			0	phosphatidyl-L-serine (1-18:0, 2-16:1)	CHEBI:90036		0	new chebiID
 s_3112	phosphatidyl-L-serine (1-18:1, 2-16:1)			0	phosphatidyl-L-serine (1-18:1, 2-16:1)	CHEBI:75101		0	new chebiID
 s_3113	phosphatidyl-L-serine (1-16:0, 2-18:1)			0	phosphatidyl-L-serine (1-16:0, 2-18:1)	CHEBI:134541		0	new chebiID
@@ -179,12 +862,15 @@ s_3114	phosphatidyl-L-serine (1-16:1, 2-18:1)			0	phosphatidyl-L-serine (1-16:1,
 s_3115	phosphatidyl-L-serine (1-18:0, 2-18:1)			0	phosphatidyl-L-serine (1-18:0, 2-18:1)	CHEBI:90433		0	new chebiID
 s_3116	phosphatidyl-L-serine (1-18:1, 2-18:1)			0	phosphatidyl-L-serine (1-18:1, 2-18:1)	CHEBI:60568		0	new chebiID
 s_3118	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-16:1)	CHEBI:88396		0	new chebiID. CHEBI:16749 for 1-phosphatidyl-1D-myo-inositol. has charge of -1
+s_3119	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-16:1)			0	
 s_3120	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-16:1)	CHEBI:88557		0	new chebiID
 s_3121	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-16:1)	CHEBI:88626		0	new chebiID
 s_3122	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-18:1)	CHEBI:73215	C13888	0	new chebiID. new keggid
 s_3123	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-18:1)	CHEBI:88562		0	new chebiID
 s_3124	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-18:1)	CHEBI:77346		0	new chebiID
 s_3125	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-18:1)	CHEBI:88612		0	new chebiID
+s_3126	sn-2-acyl-1-lysophosphatidylinositol (16:1)			0	sn-2-acyl-1-lysophosphatidylinositol (16:1)			0	
+s_3127	sn-2-acyl-1-lysophosphatidylinositol (18:1)			0	sn-2-acyl-1-lysophosphatidylinositol (18:1)			0	
 s_3130	phosphatidylethanolamine (1-16:0, 2-16:1)			0	phosphatidylethanolamine (1-16:0, 2-16:1)	CHEBI:136147		0	new chebiID
 s_3132	phosphatidylethanolamine (1-16:1, 2-16:1)			0	phosphatidylethanolamine (1-16:1, 2-16:1)	CHEBI:138792		0	new chebiID
 s_3134	phosphatidylethanolamine (1-18:0, 2-16:1)			0	phosphatidylethanolamine (1-18:0, 2-16:1)	CHEBI:136155		0	new chebiID. CHEBI:136155 for  phosphatidylethanolamine (16:1/18:0). has charge of 0
@@ -193,7 +879,21 @@ s_3138	phosphatidylethanolamine (1-16:0, 2-18:1)			0	phosphatidylethanolamine (1
 s_3140	phosphatidylethanolamine (1-16:1, 2-18:1)			0	phosphatidylethanolamine (1-16:1, 2-18:1)	CHEBI:90464		0	new chebiID
 s_3142	phosphatidylethanolamine (1-18:0, 2-18:1)			0	phosphatidylethanolamine (1-18:0, 2-18:1)	CHEBI:136162		0	new chebiID
 s_3144	phosphatidylethanolamine (1-18:1, 2-18:1)			0	phosphatidylethanolamine (1-18:1, 2-18:1)	CHEBI:136170		0	new chebiID
+s_3184	phosphatidyl-N-methylethanolamine (1-16:0, 2-16:1)			0	phosphatidyl-N-methylethanolamine (1-16:0, 2-16:1)			0	
+s_3186	phosphatidyl-N-methylethanolamine (1-16:1, 2-16:1)			0	phosphatidyl-N-methylethanolamine (1-16:1, 2-16:1)			0	
+s_3188	phosphatidyl-N-methylethanolamine (1-18:0, 2-16:1)			0	phosphatidyl-N-methylethanolamine (1-18:0, 2-16:1)			0	
+s_3190	phosphatidyl-N-methylethanolamine (1-18:1, 2-16:1)			0	phosphatidyl-N-methylethanolamine (1-18:1, 2-16:1)			0	
+s_3192	phosphatidyl-N-methylethanolamine (1-16:0, 2-18:1)			0	phosphatidyl-N-methylethanolamine (1-16:0, 2-18:1)			0	
+s_3194	phosphatidyl-N-methylethanolamine (1-16:1, 2-18:1)			0	phosphatidyl-N-methylethanolamine (1-16:1, 2-18:1)			0	
+s_3196	phosphatidyl-N-methylethanolamine (1-18:0, 2-18:1)			0	phosphatidyl-N-methylethanolamine (1-18:0, 2-18:1)			0	
 s_3198	phosphatidyl-N-methylethanolamine (1-18:1, 2-18:1)			0	phosphatidyl-N-methylethanolamine (1-18:1, 2-18:1)	CHEBI:85962		0	new chebiID. CHEBI:85962 for 1.2-dioleoyl-sn-glycero-3-phospho-N-methylethanolamine. PE-NMe(18:1/18:1) has charge of 0
+s_3199	phosphatidyl-N,N-dimethylethanolamine (1-16:0, 2-16:1)			0	phosphatidyl-N,N-dimethylethanolamine (1-16:0, 2-16:1)			0	
+s_3200	phosphatidyl-N,N-dimethylethanolamine (1-16:1, 2-16:1)			0	phosphatidyl-N,N-dimethylethanolamine (1-16:1, 2-16:1)			0	
+s_3201	phosphatidyl-N,N-dimethylethanolamine (1-18:0, 2-16:1)			0	phosphatidyl-N,N-dimethylethanolamine (1-18:0, 2-16:1)			0	
+s_3202	phosphatidyl-N,N-dimethylethanolamine (1-18:1, 2-16:1)			0	phosphatidyl-N,N-dimethylethanolamine (1-18:1, 2-16:1)			0	
+s_3203	phosphatidyl-N,N-dimethylethanolamine (1-16:0, 2-18:1)			0	phosphatidyl-N,N-dimethylethanolamine (1-16:0, 2-18:1)			0	
+s_3204	phosphatidyl-N,N-dimethylethanolamine (1-16:1, 2-18:1)			0	phosphatidyl-N,N-dimethylethanolamine (1-16:1, 2-18:1)			0	
+s_3205	phosphatidyl-N,N-dimethylethanolamine (1-18:0, 2-18:1)			0	phosphatidyl-N,N-dimethylethanolamine (1-18:0, 2-18:1)			0	
 s_3206	phosphatidyl-N,N-dimethylethanolamine (1-18:1, 2-18:1)			0	phosphatidyl-N,N-dimethylethanolamine (1-18:1, 2-18:1)	CHEBI:85963		0	new chebiID. CHEBI:85963 for 1.2-dioleoyl-sn-glycero-3-phospho-N.N-dimethylethanolamine. PE-NMe2(18:1/18:1) has charge of 0
 s_3207	phosphatidylcholine (1-16:0, 2-16:1)			0	phosphatidylcholine (1-16:0, 2-16:1)	CHEBI:134592		0	new chebiID
 s_3208	phosphatidylcholine (1-16:1, 2-16:1)			0	phosphatidylcholine (1-16:1, 2-16:1)	CHEBI:134637		0	new chebiID
@@ -203,21 +903,128 @@ s_3211	phosphatidylcholine (1-16:0, 2-18:1)			0	phosphatidylcholine (1-16:0, 2-1
 s_3212	phosphatidylcholine (1-16:1, 2-18:1)			0	phosphatidylcholine (1-16:1, 2-18:1)	CHEBI:89668		0	new chebiID
 s_3213	phosphatidylcholine (1-18:0, 2-18:1)			0	phosphatidylcholine (1-18:0, 2-18:1)	CHEBI:89679		0	new chebiID
 s_3214	phosphatidylcholine (1-18:1, 2-18:1)			0	phosphatidylcholine (1-18:1, 2-18:1)	CHEBI:89504		0	new chebiID
+s_3220	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:0, 2-16:1)			0	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:0, 2-16:1)			0	
+s_3221	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:1, 2-16:1)			0	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:1, 2-16:1)			0	
+s_3222	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-18:0, 2-16:1)			0	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-18:0, 2-16:1)			0	
+s_3223	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-18:1, 2-16:1)			0	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-18:1, 2-16:1)			0	
+s_3224	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:0, 2-18:1)			0	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:0, 2-18:1)			0	
+s_3225	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:1, 2-18:1)			0	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:1, 2-18:1)			0	
 s_3227	phosphatidylglycerol (1-16:0, 2-16:1)			0	phosphatidylglycerol (1-16:0, 2-16:1)	CHEBI:136224		0	new chebiID. CHEBI:17517 for phosphatidylglycerol. has charge of -1
+s_3229	phosphatidylglycerol (1-16:1, 2-16:1)			0	phosphatidylglycerol (1-16:1, 2-16:1)			0	
 s_3230	phosphatidylglycerol (1-18:0, 2-16:1)			0	phosphatidylglycerol (1-18:0, 2-16:1)	CHEBI:89270		0	new chebiID
 s_3231	phosphatidylglycerol (1-18:1, 2-16:1)			0	phosphatidylglycerol (1-18:1, 2-16:1)	CHEBI:89093		0	new chebiID
 s_3232	phosphatidylglycerol (1-16:0, 2-18:1)			0	phosphatidylglycerol (1-16:0, 2-18:1)	CHEBI:34080	C13833	0	new keggid
 s_3233	phosphatidylglycerol (1-16:1, 2-18:1)			0	phosphatidylglycerol (1-16:1, 2-18:1)	CHEBI:89398		0	new chebiID
+s_3234	cardiolipin (1-16:0, 2-16:1, 3-16:0, 4-16:1)			0	cardiolipin (1-16:0, 2-16:1, 3-16:0, 4-16:1)			0	
+s_3235	cardiolipin (1-16:0, 2-16:1, 3-16:1, 4-16:1)			0	cardiolipin (1-16:0, 2-16:1, 3-16:1, 4-16:1)			0	
+s_3236	cardiolipin (1-16:0, 2-16:1, 3-18:0, 4-16:1)			0	cardiolipin (1-16:0, 2-16:1, 3-18:0, 4-16:1)			0	
+s_3237	cardiolipin (1-16:0, 2-16:1, 3-18:1, 4-16:1)			0	cardiolipin (1-16:0, 2-16:1, 3-18:1, 4-16:1)			0	
+s_3238	cardiolipin (1-16:0, 2-16:1, 3-16:0, 4-18:1)			0	cardiolipin (1-16:0, 2-16:1, 3-16:0, 4-18:1)			0	
+s_3239	cardiolipin (1-16:0, 2-16:1, 3-16:1, 4-18:1)			0	cardiolipin (1-16:0, 2-16:1, 3-16:1, 4-18:1)			0	
+s_3240	cardiolipin (1-16:1, 2-16:1, 3-16:0, 4-16:1)			0	cardiolipin (1-16:1, 2-16:1, 3-16:0, 4-16:1)			0	
 s_3241	cardiolipin (1-16:1, 2-16:1, 3-16:1, 4-16:1)			0	cardiolipin (1-16:1, 2-16:1, 3-16:1, 4-16:1)	CHEBI:104873		0	new chebiID. CHEBI:104873 for tetrahexadec-9-enoyl cardiolipin CL(16:1/16:1/16:1/16:1). has charge of 0. Manually calculated based on cardiolipin
+s_3242	cardiolipin (1-16:1, 2-16:1, 3-18:0, 4-16:1)			0	cardiolipin (1-16:1, 2-16:1, 3-18:0, 4-16:1)			0	
+s_3243	cardiolipin (1-16:1, 2-16:1, 3-18:1, 4-16:1)			0	cardiolipin (1-16:1, 2-16:1, 3-18:1, 4-16:1)			0	
+s_3244	cardiolipin (1-16:1, 2-16:1, 3-16:0, 4-18:1)			0	cardiolipin (1-16:1, 2-16:1, 3-16:0, 4-18:1)			0	
+s_3245	cardiolipin (1-16:1, 2-16:1, 3-16:1, 4-18:1)			0	cardiolipin (1-16:1, 2-16:1, 3-16:1, 4-18:1)			0	
+s_3246	cardiolipin (1-18:0, 2-16:1, 3-16:0, 4-16:1)			0	cardiolipin (1-18:0, 2-16:1, 3-16:0, 4-16:1)			0	
+s_3247	cardiolipin (1-18:0, 2-16:1, 3-16:1, 4-16:1)			0	cardiolipin (1-18:0, 2-16:1, 3-16:1, 4-16:1)			0	
+s_3248	cardiolipin (1-18:0, 2-16:1, 3-18:0, 4-16:1)			0	cardiolipin (1-18:0, 2-16:1, 3-18:0, 4-16:1)			0	
+s_3249	cardiolipin (1-18:0, 2-16:1, 3-18:1, 4-16:1)			0	cardiolipin (1-18:0, 2-16:1, 3-18:1, 4-16:1)			0	
+s_3250	cardiolipin (1-18:0, 2-16:1, 3-16:0, 4-18:1)			0	cardiolipin (1-18:0, 2-16:1, 3-16:0, 4-18:1)			0	
+s_3251	cardiolipin (1-18:0, 2-16:1, 3-16:1, 4-18:1)			0	cardiolipin (1-18:0, 2-16:1, 3-16:1, 4-18:1)			0	
+s_3252	cardiolipin (1-18:1, 2-16:1, 3-16:0, 4-16:1)			0	cardiolipin (1-18:1, 2-16:1, 3-16:0, 4-16:1)			0	
+s_3253	cardiolipin (1-18:1, 2-16:1, 3-16:1, 4-16:1)			0	cardiolipin (1-18:1, 2-16:1, 3-16:1, 4-16:1)			0	
+s_3254	cardiolipin (1-18:1, 2-16:1, 3-18:0, 4-16:1)			0	cardiolipin (1-18:1, 2-16:1, 3-18:0, 4-16:1)			0	
+s_3255	cardiolipin (1-18:1, 2-16:1, 3-18:1, 4-16:1)			0	cardiolipin (1-18:1, 2-16:1, 3-18:1, 4-16:1)			0	
+s_3256	cardiolipin (1-18:1, 2-16:1, 3-16:0, 4-18:1)			0	cardiolipin (1-18:1, 2-16:1, 3-16:0, 4-18:1)			0	
+s_3257	cardiolipin (1-18:1, 2-16:1, 3-16:1, 4-18:1)			0	cardiolipin (1-18:1, 2-16:1, 3-16:1, 4-18:1)			0	
+s_3258	cardiolipin (1-16:0, 2-18:1, 3-16:0, 4-16:1)			0	cardiolipin (1-16:0, 2-18:1, 3-16:0, 4-16:1)			0	
+s_3259	cardiolipin (1-16:0, 2-18:1, 3-16:1, 4-16:1)			0	cardiolipin (1-16:0, 2-18:1, 3-16:1, 4-16:1)			0	
+s_3260	cardiolipin (1-16:0, 2-18:1, 3-18:0, 4-16:1)			0	cardiolipin (1-16:0, 2-18:1, 3-18:0, 4-16:1)			0	
+s_3261	cardiolipin (1-16:0, 2-18:1, 3-18:1, 4-16:1)			0	cardiolipin (1-16:0, 2-18:1, 3-18:1, 4-16:1)			0	
+s_3262	cardiolipin (1-16:0, 2-18:1, 3-16:0, 4-18:1)			0	cardiolipin (1-16:0, 2-18:1, 3-16:0, 4-18:1)			0	
+s_3263	cardiolipin (1-16:0, 2-18:1, 3-16:1, 4-18:1)			0	cardiolipin (1-16:0, 2-18:1, 3-16:1, 4-18:1)			0	
+s_3264	cardiolipin (1-16:1, 2-18:1, 3-16:0, 4-16:1)			0	cardiolipin (1-16:1, 2-18:1, 3-16:0, 4-16:1)			0	
+s_3265	cardiolipin (1-16:1, 2-18:1, 3-16:1, 4-16:1)			0	cardiolipin (1-16:1, 2-18:1, 3-16:1, 4-16:1)			0	
+s_3266	cardiolipin (1-16:1, 2-18:1, 3-18:0, 4-16:1)			0	cardiolipin (1-16:1, 2-18:1, 3-18:0, 4-16:1)			0	
+s_3267	cardiolipin (1-16:1, 2-18:1, 3-18:1, 4-16:1)			0	cardiolipin (1-16:1, 2-18:1, 3-18:1, 4-16:1)			0	
+s_3268	cardiolipin (1-16:1, 2-18:1, 3-16:0, 4-18:1)			0	cardiolipin (1-16:1, 2-18:1, 3-16:0, 4-18:1)			0	
+s_3269	cardiolipin (1-16:1, 2-18:1, 3-16:1, 4-18:1)			0	cardiolipin (1-16:1, 2-18:1, 3-16:1, 4-18:1)			0	
+s_3270	monolysocardiolipin (2-16:1, 3-16:0, 4-16:1)			0	monolysocardiolipin (2-16:1, 3-16:0, 4-16:1)			0	
+s_3272	monolysocardiolipin (2-16:1, 3-16:1, 4-16:1)			0	monolysocardiolipin (2-16:1, 3-16:1, 4-16:1)			0	
+s_3273	monolysocardiolipin (2-16:1, 3-18:0, 4-16:1)			0	monolysocardiolipin (2-16:1, 3-18:0, 4-16:1)			0	
+s_3274	monolysocardiolipin (2-16:1, 3-18:1, 4-16:1)			0	monolysocardiolipin (2-16:1, 3-18:1, 4-16:1)			0	
+s_3275	monolysocardiolipin (2-16:1, 3-16:0, 4-18:1)			0	monolysocardiolipin (2-16:1, 3-16:0, 4-18:1)			0	
+s_3276	monolysocardiolipin (2-16:1, 3-16:1, 4-18:1)			0	monolysocardiolipin (2-16:1, 3-16:1, 4-18:1)			0	
+s_3278	monolysocardiolipin (2-18:1, 3-16:0, 4-16:1)			0	monolysocardiolipin (2-18:1, 3-16:0, 4-16:1)			0	
+s_3279	monolysocardiolipin (2-18:1, 3-16:1, 4-16:1)			0	monolysocardiolipin (2-18:1, 3-16:1, 4-16:1)			0	
+s_3280	monolysocardiolipin (2-18:1, 3-18:0, 4-16:1)			0	monolysocardiolipin (2-18:1, 3-18:0, 4-16:1)			0	
+s_3281	monolysocardiolipin (2-18:1, 3-18:1, 4-16:1)			0	monolysocardiolipin (2-18:1, 3-18:1, 4-16:1)			0	
+s_3282	monolysocardiolipin (2-18:1, 3-16:0, 4-18:1)			0	monolysocardiolipin (2-18:1, 3-16:0, 4-18:1)			0	
+s_3283	monolysocardiolipin (2-18:1, 3-16:1, 4-18:1)			0	monolysocardiolipin (2-18:1, 3-16:1, 4-18:1)			0	
+s_3284	monolysocardiolipin (1-16:0, 2-16:1, 4-16:1)			0	monolysocardiolipin (1-16:0, 2-16:1, 4-16:1)			0	
+s_3285	monolysocardiolipin (1-16:0, 2-16:1, 4-18:1)			0	monolysocardiolipin (1-16:0, 2-16:1, 4-18:1)			0	
+s_3286	monolysocardiolipin (1-16:1, 2-16:1, 4-16:1)			0	monolysocardiolipin (1-16:1, 2-16:1, 4-16:1)			0	
+s_3287	monolysocardiolipin (1-16:1, 2-16:1, 4-18:1)			0	monolysocardiolipin (1-16:1, 2-16:1, 4-18:1)			0	
+s_3288	monolysocardiolipin (1-18:0, 2-16:1, 4-16:1)			0	monolysocardiolipin (1-18:0, 2-16:1, 4-16:1)			0	
+s_3289	monolysocardiolipin (1-18:0, 2-16:1, 4-18:1)			0	monolysocardiolipin (1-18:0, 2-16:1, 4-18:1)			0	
+s_3290	monolysocardiolipin (1-18:1, 2-16:1, 4-16:1)			0	monolysocardiolipin (1-18:1, 2-16:1, 4-16:1)			0	
+s_3291	monolysocardiolipin (1-18:1, 2-16:1, 4-18:1)			0	monolysocardiolipin (1-18:1, 2-16:1, 4-18:1)			0	
+s_3292	monolysocardiolipin (1-16:0, 2-18:1, 4-16:1)			0	monolysocardiolipin (1-16:0, 2-18:1, 4-16:1)			0	
+s_3293	monolysocardiolipin (1-16:0, 2-18:1, 4-18:1)			0	monolysocardiolipin (1-16:0, 2-18:1, 4-18:1)			0	
+s_3294	monolysocardiolipin (1-16:1, 2-18:1, 4-16:1)			0	monolysocardiolipin (1-16:1, 2-18:1, 4-16:1)			0	
+s_3295	monolysocardiolipin (1-16:1, 2-18:1, 4-18:1)			0	monolysocardiolipin (1-16:1, 2-18:1, 4-18:1)			0	
 s_3297	1-acylglycerophosphocholine (16:0)			0	1-acylglycerophosphocholine (16:0)			1	Update charge. Manually calculated based on 1-acylglycerophosphocholine(1+)
 s_3299	1-acylglycerophosphocholine (16:1)			0	1-acylglycerophosphocholine (16:1)			1	Update charge. Manually calculated based on 1-acylglycerophosphocholine(1+)
 s_3301	1-acylglycerophosphocholine (18:0)			0	1-acylglycerophosphocholine (18:0)			1	Update charge. Manually calculated based on 1-acylglycerophosphocholine(1+)
 s_3303	1-acylglycerophosphocholine (18:1)			0	1-acylglycerophosphocholine (18:1)			1	Update charge. Manually calculated based on 1-acylglycerophosphocholine(1+)
+s_3308	cardiolipin (1-18:1, 2-18:1, 3-16:0, 4-16:1)			0	cardiolipin (1-18:1, 2-18:1, 3-16:0, 4-16:1)			0	
+s_3309	cardiolipin (1-18:1, 2-18:1, 3-16:1, 4-16:1)			0	cardiolipin (1-18:1, 2-18:1, 3-16:1, 4-16:1)			0	
+s_3310	cardiolipin (1-18:1, 2-18:1, 3-18:0, 4-16:1)			0	cardiolipin (1-18:1, 2-18:1, 3-18:0, 4-16:1)			0	
+s_3311	cardiolipin (1-18:1, 2-18:1, 3-18:1, 4-16:1)			0	cardiolipin (1-18:1, 2-18:1, 3-18:1, 4-16:1)			0	
+s_3312	cardiolipin (1-18:1, 2-18:1, 3-16:0, 4-18:1)			0	cardiolipin (1-18:1, 2-18:1, 3-16:0, 4-18:1)			0	
+s_3313	cardiolipin (1-18:1, 2-18:1, 3-16:1, 4-18:1)			0	cardiolipin (1-18:1, 2-18:1, 3-16:1, 4-18:1)			0	
+s_3314	cardiolipin (1-16:0, 2-16:1, 3-18:1, 4-18:1)			0	cardiolipin (1-16:0, 2-16:1, 3-18:1, 4-18:1)			0	
+s_3315	cardiolipin (1-16:1, 2-16:1, 3-18:1, 4-18:1)			0	cardiolipin (1-16:1, 2-16:1, 3-18:1, 4-18:1)			0	
+s_3316	cardiolipin (1-18:0, 2-16:1, 3-18:1, 4-18:1)			0	cardiolipin (1-18:0, 2-16:1, 3-18:1, 4-18:1)			0	
+s_3317	cardiolipin (1-18:1, 2-16:1, 3-18:1, 4-18:1)			0	cardiolipin (1-18:1, 2-16:1, 3-18:1, 4-18:1)			0	
+s_3318	cardiolipin (1-16:0, 2-18:1, 3-18:1, 4-18:1)			0	cardiolipin (1-16:0, 2-18:1, 3-18:1, 4-18:1)			0	
+s_3319	cardiolipin (1-16:1, 2-18:1, 3-18:1, 4-18:1)			0	cardiolipin (1-16:1, 2-18:1, 3-18:1, 4-18:1)			0	
+s_3325	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-16:1)			0	
+s_3327	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-16:1)			0	
+s_3329	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-16:1)			0	
+s_3331	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-16:1)			0	
+s_3333	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-18:1)			0	
+s_3335	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-18:1)			0	
 s_3337	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-18:1)	CHEBI:77277		0	new chebiID. CHEBI:77277 for 1-stearoyl-2-oleoyl-sn-glycero-3-phospho-1D-myo-inositol 4-phosphate. has charge of 0. Manually calculated based on 1-phosphatidyl-1D-myo-inositol 4-phosphate
+s_3339	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-18:1)			0	
+s_3392	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-16:1)			0	
+s_3393	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-16:1)			0	
+s_3394	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-16:1)			0	
+s_3395	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-16:1)			0	
+s_3396	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-18:1)			0	
+s_3397	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-18:1)			0	
 s_3398	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-18:1)	CHEBI:77347		0	new chebiID. CHEBI:77347 for 1-stearoyl-2-oleoyl-sn-glycero-3-phospho-1D-myo-inositol 5-phosphate Phosphatidylinositol Phosphate(18:0/18:1). has charge of 0.  in structure 3-phosphate is like 5 -phosphate in Benzene ring. Manually calculated based on 1-phosphatidyl-1D-myo-inositol 3-phosphate
 s_3399	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-18:1)	CHEBI:77344		0	new chebiID. CHEBI:7734 for1-stearoyl-2-linoleoyl-sn-glycero-3-phospho-1D-myo-inositol 5-phosphate  Phosphatidylinositol Phosphate(18:0/18:2). has charge of 0. Manually calculated based on 1-phosphatidyl-1D-myo-inositol 3-phosphate
+s_3400	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-16:1)			0	
+s_3401	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-16:1)			0	
+s_3402	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-16:1)			0	
+s_3403	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-16:1)			0	
+s_3404	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-18:1)			0	
+s_3405	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-18:1)			0	
 s_3406	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-18:1)	CHEBI:77279		0	new chebiID. CHEBI:77279 for 1-stearoyl-2-oleoyl-sn-glycero-3-phospho-1D-myo-inositol 4.5-biphosphate. has charge of 0. Manually calculated based on 1-phosphatidyl-1D-myo-inositol 4.5-phosphate
+s_3407	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-18:1)			0	
+s_3416	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:0, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:0, 2-16:1)			0	
+s_3417	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:1, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:1, 2-16:1)			0	
+s_3418	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:0, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:0, 2-16:1)			0	
+s_3419	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:1, 2-16:1)			0	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:1, 2-16:1)			0	
+s_3420	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:0, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:0, 2-18:1)			0	
+s_3421	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:1, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:1, 2-18:1)			0	
+s_3422	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:0, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:0, 2-18:1)			0	
+s_3423	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:1, 2-18:1)			0	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:1, 2-18:1)			0	
 s_3424	1-acylglycerophosphoethanolamine (16:0)			0	1-acylglycerophosphoethanolamine (16:0)	CHEBI:90452		0	new chebiID. CHEBI:90452 for lysophosphatidylethanolamine 16:0. has charge of 0. based on chebi:136148Manually calculated based on 1-O-acylglycerophosphoethanolamine
+s_3425	1-acylglycerophosphoethanolamine (16:1)			0	1-acylglycerophosphoethanolamine (16:1)			0	
 s_3426	1-acylglycerophosphoethanolamine (18:0)			0	1-acylglycerophosphoethanolamine (18:0)	CHEBI:64576		0	new chebiID. CHEBI:64576 for lysophosphatidylethanolamine 18:0. has charge of 0. Manually calculated based on 1-O-acylglycerophosphoethanolamine
 s_3427	1-acylglycerophosphoethanolamine (18:1)			0	1-acylglycerophosphoethanolamine (18:1)	CHEBI:64575		0	new chebiID. CHEBI:64575 for lysophosphatidylethanolamine 18:1. has charge of 0. Manually calculated based on 1-O-acylglycerophosphoethanolamine
 s_3433	episteryl oleate			0	episteryl oleate	CHEBI:52375		0	new chebiID
@@ -230,12 +1037,23 @@ s_3442	ergosteryl oleate			0	ergosteryl oleate	CHEBI:52377		0	new chebiID
 s_3443	ergosteryl palmitoleate			0	ergosteryl palmitoleate	CHEBI:52378		0	new chebiID
 s_3445	zymosteryl oleate			0	zymosteryl oleate	CHEBI:52384		0	new chebiID
 s_3446	zymosteryl palmitoleate			0	zymosteryl palmitoleate	CHEBI:52385		0	new chebiID
+s_3479	1-acylglycerophosphoserine (16:0)			0	1-acylglycerophosphoserine (16:0)			0	
+s_3481	1-acylglycerophosphoserine (16:1)			0	1-acylglycerophosphoserine (16:1)			0	
+s_3483	1-acylglycerophosphoserine (18:0)			0	1-acylglycerophosphoserine (18:0)			0	
+s_3485	1-acylglycerophosphoserine (18:1)			0	1-acylglycerophosphoserine (18:1)			0	
 s_3490	sn-glycero-3-phosphoserine			0	sn-glycero-3-phosphoserine	CHEBI:64945		0	new chebiID. has charge of -1
 s_3491	1-acylglycerophosphoinositol (16:0)			0	1-acylglycerophosphoinositol (16:0)	CHEBI:73218		0	new chebiID. CHEBI:73218 for  1-hexadecanoyl-sn-glycero-3-phospho-D-myo-inositol PI(16:0/0:0) has new chebiID. charge of 0. Manually calculated based on 1-acylglycerophosphoinositol
 s_3492	1-acylglycerophosphoinositol (16:1)			0	1-acylglycerophosphoinositol (16:1)	CHEBI:138108		0	new chebiID. CHEBI:138108 for  2-palmitoleoyl-sn-glycero-3-phospho-D-myo-inositol. has charge of 0.Manually calculated based on 1-acylglycerophosphoinositol
 s_3493	1-acylglycerophosphoinositol (18:0)			0	1-acylglycerophosphoinositol (18:0)	CHEBI:83054		0	new chebiID. CHEBI:83054 for  1-stearoyl-sn-glycero-3-phospho-1D-myo-inositol PI(18:0/0:0). has charge of 0. Manually calculated based on 1-acylglycerophosphoinositol
 s_3494	1-acylglycerophosphoinositol (18:1)			0	1-acylglycerophosphoinositol (18:1)	CHEBI:82753		0	new chebiID. CHEBI:82753 for 1-oleoyl-sn-glycero-3-phospho-D-myo-inositol PI(18:1/0:0). has charge of 0. Manually calculated based on 1-acylglycerophosphoinositol
+s_3616	1,2-diacylglycerol 3-diphosphate (1-16:0, 2-16:1)			0	1,2-diacylglycerol 3-diphosphate (1-16:0, 2-16:1)			0	
+s_3617	1,2-diacylglycerol 3-diphosphate (1-16:1, 2-16:1)			0	1,2-diacylglycerol 3-diphosphate (1-16:1, 2-16:1)			0	
+s_3618	1,2-diacylglycerol 3-diphosphate (1-18:0, 2-16:1)			0	1,2-diacylglycerol 3-diphosphate (1-18:0, 2-16:1)			0	
+s_3619	1,2-diacylglycerol 3-diphosphate (1-18:1, 2-16:1)			0	1,2-diacylglycerol 3-diphosphate (1-18:1, 2-16:1)			0	
 s_3620	1,2-diacylglycerol 3-diphosphate (1-16:0, 2-18:1)			0	1,2-diacylglycerol 3-diphosphate (1-16:0, 2-18:1)	CHEBI:34087	C13890	0	new chebiID. new keggid. CHEBI:34087 for 1-O-hexadecanoyl-2-O-[(Z)-octadec-9-enoyl]-sn-glycerol 3-diphosphate has charge of 0 the chain of chebi 34087 is same to this metabolite.Manually calculated based on 1.2-diacylglycerol 3-diphosphate
+s_3621	1,2-diacylglycerol 3-diphosphate (1-16:1, 2-18:1)			0	1,2-diacylglycerol 3-diphosphate (1-16:1, 2-18:1)			0	
+s_3622	1,2-diacylglycerol 3-diphosphate (1-18:0, 2-18:1)			0	1,2-diacylglycerol 3-diphosphate (1-18:0, 2-18:1)			0	
+s_3623	1,2-diacylglycerol 3-diphosphate (1-18:1, 2-18:1)			0	1,2-diacylglycerol 3-diphosphate (1-18:1, 2-18:1)			0	
 s_3633	1-monoglyceride (16:0)			0	1-monoglyceride (16:0)	CHEBI:134127		0	new chebiID
 s_3635	1-monoglyceride (16:1)			0	1-monoglyceride (16:1)	CHEBI:134128		0	new chebiID
 s_3637	1-monoglyceride (18:0)			0	1-monoglyceride (18:0)	CHEBI:134129		0	new chebiID
